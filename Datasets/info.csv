@@ -1,0 +1,20 @@
+Employee_ID,Start_Date,End_Date,Department,Employee_Job_Title,Employee_Annual_Salary,Employee_Gender,Employee_Birth_Date,Employee_Hire_Date,Employee_Termination_Date,Manager_for_Employee
+120101,2007/07/01,1999/12/31,Sales Management,Director,"$163,040",M,1980/08/18,2007/07/01,,120261
+120102,1993/06/01,1999/12/31,Sales Management,Sales Manager,"$108,255",M,1973/08/11,1993/06/01,,120101
+120103,1978/01/01,1999/12/31,Sales Management,Sales Manager,"$87,975",M,1953/01/22,1978/01/01,,120101
+120104,1985/01/01,1999/12/31,Administration,Administration Manager,"$46,230",F,1958/05/11,1985/01/01,,120101
+120105,2003/05/01,1999/12/31,Administration,Secretary I,"$27,110",F,1978/12/21,2003/05/01,,120101
+120106,1978/01/01,1999/12/31,Administration,Office Assistant II,"$26,960",M,1948/12/23,1978/01/01,,120104
+120107,1978/02/01,1999/12/31,Administration,Office Assistant III,"$30,475",F,1953/01/21,1978/02/01,,120104
+120108,2010/08/01,1999/12/31,Administration,Warehouse Assistant II,"$27,660",F,1988/02/23,2010/08/01,,120104
+120109,2010/10/01,1999/12/31,Administration,Warehouse Assistant I,"$26,495",F,1990/12/15,2010/10/01,,120104
+120110,1983/11/01,1999/12/31,Administration,Warehouse Assistant III,"$28,615",M,1953/11/20,1983/11/01,,120104
+120111,1978/11/01,1999/12/31,Administration,Security Guard II,"$26,895",M,1953/07/23,1978/11/01,,120104
+120112,1994/07/01,1999/12/31,Administration,Security Guard I,"$26,550",F,1973/02/17,1994/07/01,,120104
+120113,1978/01/01,1999/12/31,Administration,Security Guard II,"$26,870",F,1948/05/10,1978/01/01,,120104
+120114,1978/01/01,1999/12/31,Administration,Security Manager,"$31,285",F,1948/02/08,1978/01/01,,120104
+120115,2009/08/01,1999/12/31,Administration,Service Assistant I,"$26,500",M,1988/05/08,2009/08/01,,120104
+120116,1984/02/01,1999/12/31,Administration,Service Assistant II,"$29,250",M,1963/06/13,1984/02/01,,120104
+120117,1990/04/01,1999/12/31,Engineering,Cabinet Maker III,"$31,670",M,1968/09/11,1990/04/01,,120104
+120118,1988/07/01,1999/12/31,Engineering,Cabinet Maker II,"$28,090",M,1963/06/03,1988/07/01,,120104
+120119,2002/01/01,1999/12/31,Engineering,Electrician IV,"$30,255",M,1973/12/21,2002/01/01,,120104

@@ -1,0 +1,1001 @@
+Customer_Id,Invoice_ID,Customer_type,Branch,Product_ID,Payment,Purchase_Date,Rating
+191,750-67-8428,Member,A,p_01,Ewallet,12-Dec-2020,9.1
+144,226-31-3081,Normal,C,p_02,Cash,14-Apr-2019,9.6
+156,631-41-3108,Normal,A,p_03,Credit card,23-Feb-2019,7.4
+905,123-19-1176,Member,A,p_01,Ewallet,18-Apr-2020,8.4
+447,373-73-7910,Normal,A,p_04,Ewallet,7-Sep-2019,5.3
+158,699-14-3026,Normal,C,p_02,Ewallet,4-Oct-2019,4.1
+904,355-53-5943,Member,A,p_02,Ewallet,9-Jan-2019,5.8
+414,315-22-5665,Normal,C,p_03,Ewallet,25-Oct-2020,8
+658,665-32-9167,Member,A,p_01,Credit card,5-May-2020,7.2
+461,692-92-5582,Member,B,p_05,Credit card,30-Apr-2021,5.9
+943,351-62-0822,Member,B,p_06,Ewallet,5-Aug-2021,4.5
+833,529-56-3974,Member,B,p_02,Cash,25-Jan-2021,6.8
+5,365-64-0515,Normal,A,p_02,Ewallet,21-Jan-2021,7.1
+19,252-56-2699,Normal,A,p_05,Ewallet,13-Aug-2021,8.2
+59,829-34-3910,Normal,A,p_01,Cash,29-Jan-2022,5.7
+25,299-46-1805,Member,B,p_04,Cash,26-Dec-2019,4.5
+222,656-95-9349,Member,A,p_01,Credit card,11-Mar-2020,4.6
+920,765-26-6951,Normal,A,p_04,Credit card,8-Jun-2019,6.9
+823,329-62-1586,Normal,A,p_05,Credit card,15-Jun-2021,8.6
+605,319-50-3348,Normal,B,p_03,Ewallet,6-Aug-2020,4.4
+383,300-71-4605,Member,C,p_02,Ewallet,20-Aug-2019,4.8
+367,371-85-5789,Normal,B,p_01,Ewallet,11-Aug-2020,5.1
+198,273-16-6619,Normal,B,p_03,Credit card,31-Dec-2019,4.4
+148,636-48-8204,Normal,A,p_02,Ewallet,27-Nov-2021,9.9
+85,549-59-1358,Member,A,p_04,Ewallet,14-Nov-2021,6
+672,227-03-5010,Member,A,p_03,Credit card,17-May-2020,8.5
+515,649-29-6775,Normal,B,p_06,Cash,25-Jun-2020,6.7
+591,189-17-4241,Normal,A,p_06,Credit card,6-May-2021,7.7
+181,145-94-9061,Normal,B,p_05,Cash,18-Mar-2019,9.6
+55,848-62-7243,Normal,A,p_01,Cash,5-Oct-2019,7.4
+582,871-79-8483,Normal,B,p_06,Credit card,27-Jul-2019,4.8
+415,149-71-6266,Member,B,p_04,Cash,4-Mar-2019,4.5
+184,640-49-2076,Normal,B,p_04,Cash,11-Apr-2021,5.1
+861,595-11-5460,Normal,A,p_01,Credit card,13-Jun-2019,5.1
+831,183-56-6882,Member,C,p_05,Ewallet,2-Dec-2020,7.5
+507,232-16-2483,Member,C,p_04,Ewallet,12-Mar-2020,6.8
+420,129-29-8530,Member,A,p_04,Ewallet,8-Nov-2021,7
+680,272-65-1806,Normal,A,p_02,Ewallet,22-Dec-2019,4.7
+987,333-73-7901,Normal,C,p_01,Ewallet,7-Jun-2020,7.6
+272,777-82-7220,Member,B,p_03,Cash,25-Mar-2019,7.7
+988,280-35-5823,Member,B,p_03,Ewallet,20-Apr-2021,7.9
+748,554-53-8700,Member,C,p_03,Cash,16-Mar-2021,6.3
+155,354-25-5821,Member,B,p_04,Cash,27-Jan-2021,5.6
+105,228-96-1411,Member,C,p_05,Cash,17-Nov-2020,7.6
+618,617-15-4209,Member,C,p_01,Cash,27-Feb-2022,7.2
+776,132-32-9879,Member,B,p_02,Cash,16-Nov-2021,9.5
+745,370-41-7321,Member,B,p_01,Credit card,13-Aug-2019,8.4
+892,727-46-3608,Member,B,p_05,Ewallet,20-Jun-2019,4.1
+555,669-54-1719,Member,B,p_02,Credit card,19-Sep-2019,8.1
+580,574-22-5561,Member,C,p_06,Ewallet,17-Jun-2021,7.9
+99,326-78-5178,Member,C,p_05,Cash,30-May-2019,9.5
+202,162-48-8011,Member,A,p_05,Cash,17-May-2021,8.5
+531,616-24-2851,Member,B,p_06,Ewallet,11-Sep-2020,6.5
+911,778-71-5554,Member,C,p_06,Credit card,17-Mar-2020,6.1
+925,242-55-6721,Normal,B,p_03,Ewallet,10-Jan-2020,6.5
+843,399-46-5918,Normal,C,p_02,Cash,29-May-2020,8.2
+676,106-35-6779,Member,A,p_03,Cash,18-Jan-2021,5.8
+603,635-40-6220,Normal,A,p_01,Ewallet,27-May-2020,6.6
+377,817-48-8732,Member,A,p_03,Cash,26-Nov-2019,5.4
+115,120-06-4233,Normal,C,p_02,Cash,16-Jun-2020,9.3
+445,285-68-5083,Member,C,p_04,Credit card,20-Dec-2021,10
+386,803-83-5989,Normal,C,p_03,Ewallet,13-Jul-2021,7
+418,347-34-2234,Member,B,p_04,Ewallet,22-Jun-2021,10
+83,199-75-8169,Member,A,p_04,Credit card,25-Sep-2020,8.6
+26,853-23-2453,Member,B,p_01,Cash,9-Nov-2020,7.6
+146,877-22-3308,Member,A,p_01,Cash,17-Jan-2022,5.8
+809,838-78-4295,Normal,C,p_01,Ewallet,20-Feb-2019,6.7
+561,109-28-2512,Member,B,p_06,Ewallet,20-Aug-2020,9.9
+837,232-11-3025,Normal,A,p_04,Cash,7-Jul-2021,6.4
+354,382-03-4532,Member,A,p_01,Cash,19-Jul-2019,4.3
+429,393-65-2792,Normal,C,p_05,Credit card,14-Mar-2019,9.6
+600,796-12-2025,Normal,C,p_06,Cash,12-Apr-2021,5.9
+9,510-95-6347,Member,B,p_05,Ewallet,9-Jan-2020,4
+109,841-35-6630,Normal,C,p_02,Cash,9-Jan-2021,8.7
+899,287-21-9091,Normal,A,p_03,Ewallet,26-Sep-2021,9.4
+974,732-94-0499,Normal,C,p_02,Credit card,27-Dec-2020,5.4
+1,263-10-3913,Member,C,p_06,Credit card,21-Dec-2020,8.6
+325,381-20-0914,Member,A,p_06,Credit card,29-Jun-2020,5.7
+274,829-49-1914,Member,C,p_05,Ewallet,1-Apr-2020,6.6
+182,756-01-7507,Normal,C,p_01,Cash,27-Sep-2020,6
+125,870-72-4431,Normal,C,p_01,Credit card,29-Nov-2021,5.5
+159,847-38-7188,Normal,B,p_05,Ewallet,13-Mar-2022,6.4
+958,480-63-2856,Normal,C,p_05,Ewallet,28-Apr-2020,6.6
+314,787-56-0757,Member,C,p_05,Credit card,26-Jul-2021,8.3
+82,360-39-5055,Member,C,p_04,Cash,19-Sep-2020,6.6
+514,730-50-9884,Normal,C,p_04,Ewallet,10-Feb-2021,4
+782,362-58-8315,Normal,C,p_06,Cash,14-Dec-2019,9.9
+690,633-44-8566,Member,A,p_05,Credit card,28-Mar-2021,7.3
+587,504-35-8843,Normal,A,p_04,Cash,27-Oct-2021,5.7
+942,318-68-5053,Normal,B,p_01,Cash,19-Mar-2019,6.1
+574,565-80-5980,Member,C,p_03,Cash,15-Mar-2021,7.1
+297,225-32-0908,Normal,C,p_04,Ewallet,23-Apr-2020,8.2
+206,873-51-0671,Member,A,p_04,Ewallet,21-Mar-2019,5.1
+644,152-08-9985,Member,B,p_01,Credit card,16-Jun-2021,8.6
+879,512-91-0811,Normal,C,p_01,Credit card,15-Jan-2022,6.6
+736,594-34-4444,Normal,A,p_02,Ewallet,16-Nov-2019,7.2
+470,766-85-7061,Normal,B,p_01,Ewallet,19-Feb-2019,5.1
+397,871-39-9221,Normal,C,p_02,Cash,26-Sep-2020,4.1
+964,865-92-6136,Normal,A,p_05,Ewallet,21-Jul-2020,9.3
+691,733-01-9107,Normal,B,p_03,Cash,27-Aug-2020,7.4
+423,163-56-7055,Member,C,p_06,Cash,3-Jul-2020,4.1
+153,189-98-2939,Normal,C,p_06,Cash,1-Jan-2020,7.2
+536,551-21-3069,Normal,C,p_02,Cash,24-Jan-2022,4.9
+517,212-62-1842,Normal,A,p_05,Cash,18-Jun-2021,9.9
+432,716-39-1409,Normal,B,p_01,Cash,7-Aug-2020,8
+873,704-48-3927,Member,A,p_02,Ewallet,19-Oct-2021,7.3
+973,628-34-3388,Normal,C,p_06,Credit card,30-Mar-2019,7.9
+215,630-74-5166,Normal,A,p_04,Cash,20-Sep-2019,7.4
+926,588-01-7461,Normal,C,p_05,Cash,26-Jan-2021,4.2
+123,861-77-0145,Member,C,p_02,Cash,21-Oct-2020,9.2
+258,479-26-8945,Member,B,p_04,Ewallet,27-Jun-2020,4.6
+14,210-67-5886,Member,C,p_01,Credit card,6-Mar-2020,7.8
+794,227-78-1148,Normal,B,p_06,Cash,25-Aug-2019,8.4
+13,645-44-1170,Member,A,p_03,Ewallet,21-Feb-2021,4.3
+675,237-01-6122,Member,C,p_03,Credit card,11-Jul-2019,9.5
+163,225-98-1496,Normal,C,p_06,Credit card,14-Jul-2021,7.1
+217,291-32-1427,Member,B,p_06,Ewallet,7-Dec-2020,5.3
+660,659-65-8956,Member,B,p_06,Ewallet,10-Jan-2022,5.2
+932,642-32-2990,Normal,A,p_05,Ewallet,27-Mar-2020,6
+785,378-24-2715,Normal,B,p_03,Ewallet,17-Sep-2019,4.1
+489,638-60-7125,Normal,A,p_02,Credit card,18-Dec-2021,5.2
+986,659-36-1684,Member,C,p_04,Credit card,23-Oct-2019,6.5
+674,219-22-9386,Member,B,p_04,Credit card,18-Jan-2019,4.2
+728,336-78-2147,Member,C,p_03,Credit card,30-Jul-2019,4.6
+56,268-27-6179,Member,B,p_06,Ewallet,10-Aug-2021,7.3
+186,668-90-8900,Normal,A,p_03,Credit card,23-Jan-2019,4.5
+150,870-54-3162,Normal,A,p_04,Cash,22-Jan-2020,9
+747,189-08-9157,Normal,C,p_06,Credit card,4-Apr-2021,5.9
+254,663-86-9076,Member,C,p_05,Ewallet,29-May-2019,8.5
+619,549-84-7482,Normal,B,p_04,Ewallet,3-Sep-2019,7.2
+169,191-10-6171,Normal,B,p_06,Cash,11-Jan-2022,7.5
+63,802-70-5316,Member,A,p_04,Cash,4-Feb-2021,8.3
+194,695-51-0018,Normal,B,p_04,Cash,15-Dec-2021,7.4
+157,590-83-4591,Member,B,p_02,Credit card,22-Feb-2020,8.8
+615,483-71-1164,Normal,C,p_01,Ewallet,2-Mar-2021,5.3
+822,597-78-7908,Normal,C,p_06,Cash,7-Nov-2019,6.2
+819,700-81-1757,Normal,A,p_02,Credit card,18-May-2021,8.8
+77,354-39-5160,Member,A,p_03,Cash,24-Dec-2019,9.8
+369,241-72-9525,Normal,B,p_04,Cash,3-May-2020,8.2
+221,575-30-8091,Normal,A,p_04,Ewallet,28-Mar-2020,9.2
+363,731-81-9469,Member,C,p_04,Credit card,23-Aug-2020,5.4
+128,280-17-4359,Member,C,p_01,Cash,11-Sep-2021,8.1
+483,338-65-2210,Member,C,p_01,Cash,22-Jun-2019,9.1
+735,488-25-4221,Member,C,p_05,Credit card,28-Jan-2019,8.4
+761,239-10-7476,Normal,A,p_03,Ewallet,17-Jul-2021,8
+398,458-41-1477,Normal,C,p_01,Credit card,22-Nov-2019,9.5
+172,685-64-1609,Member,A,p_06,Ewallet,12-Dec-2021,9.2
+727,568-90-5112,Normal,C,p_01,Credit card,23-Dec-2021,5.6
+524,262-47-2794,Member,B,p_03,Credit card,15-May-2021,6.2
+18,238-49-0436,Normal,A,p_01,Credit card,10-Jan-2021,4.9
+231,608-96-3517,Member,B,p_06,Credit card,9-Jul-2020,4.8
+650,584-86-7256,Member,C,p_04,Credit card,24-Nov-2020,7.3
+505,746-94-0204,Normal,A,p_06,Credit card,15-Dec-2019,7.4
+991,214-17-6927,Normal,C,p_05,Ewallet,9-Jan-2022,9.9
+196,400-89-4171,Normal,C,p_04,Cash,26-May-2021,9.3
+499,782-95-9291,Member,A,p_05,Credit card,9-Feb-2020,9
+840,279-74-2924,Member,B,p_02,Cash,20-Aug-2021,6.1
+679,307-85-2293,Normal,B,p_03,Ewallet,15-Jul-2019,9.7
+526,743-04-1105,Member,B,p_01,Ewallet,18-Mar-2021,6
+887,423-57-2993,Normal,B,p_04,Ewallet,8-Jan-2020,10
+353,894-41-5205,Normal,C,p_05,Credit card,21-Feb-2020,8.3
+533,275-28-0149,Normal,A,p_04,Cash,19-Feb-2021,6
+750,101-17-6199,Normal,A,p_05,Credit card,7-Jul-2020,7
+205,423-80-0988,Normal,C,p_04,Ewallet,29-Jun-2021,6.5
+387,548-46-9322,Normal,B,p_05,Credit card,23-Jun-2019,5.9
+362,505-02-0892,Member,B,p_01,Ewallet,19-Feb-2020,5.6
+46,234-65-2137,Normal,C,p_03,Cash,12-Jul-2021,4.8
+946,687-47-8271,Normal,A,p_06,Credit card,2-May-2021,8.7
+392,796-32-9050,Normal,A,p_05,Cash,30-Jan-2019,6.5
+271,105-31-1824,Member,A,p_04,Credit card,6-Feb-2020,8.5
+767,249-42-3782,Normal,A,p_01,Ewallet,4-Jul-2020,5.5
+152,316-55-4634,Member,B,p_05,Credit card,16-Oct-2021,9.4
+264,733-33-4967,Normal,C,p_02,Cash,19-Jan-2019,6.3
+985,608-27-6295,Member,B,p_02,Credit card,9-Jun-2020,9.8
+319,414-12-7047,Normal,B,p_05,Ewallet,20-Sep-2021,8.7
+490,827-26-2100,Member,A,p_03,Ewallet,30-Nov-2020,8.8
+239,175-54-2529,Member,A,p_05,Credit card,8-Feb-2021,9.6
+227,139-52-2867,Normal,C,p_06,Credit card,17-Apr-2021,4.8
+368,407-63-8975,Normal,A,p_05,Ewallet,5-Sep-2020,4.4
+765,342-65-4817,Member,C,p_01,Ewallet,13-Apr-2019,9.9
+642,130-98-8941,Normal,C,p_06,Cash,22-Jan-2021,5.7
+807,434-83-9547,Member,C,p_05,Cash,21-Nov-2020,7.7
+189,851-28-6367,Member,A,p_04,Ewallet,10-Nov-2021,8
+976,824-88-3614,Normal,C,p_01,Ewallet,12-Feb-2020,5.7
+130,586-25-0848,Normal,A,p_04,Credit card,11-Apr-2020,6.7
+546,895-66-0685,Member,B,p_05,Ewallet,26-Jan-2020,8
+140,305-14-0245,Member,B,p_03,Ewallet,3-Aug-2019,7.5
+620,732-04-5373,Member,B,p_03,Cash,4-Jun-2021,7
+737,400-60-7251,Normal,A,p_03,Ewallet,16-Aug-2019,9.9
+839,593-65-1552,Normal,C,p_03,Credit card,15-Feb-2022,5.9
+682,284-34-9626,Normal,B,p_03,Credit card,4-May-2020,7.2
+895,437-58-8131,Normal,B,p_06,Ewallet,29-Jul-2020,4.6
+49,286-43-6208,Normal,C,p_05,Cash,17-Nov-2019,9.2
+956,641-43-2399,Normal,B,p_03,Ewallet,30-Sep-2020,5.7
+888,831-07-6050,Normal,A,p_02,Credit card,21-Sep-2020,9.9
+468,556-86-3144,Member,C,p_06,Cash,6-Dec-2021,5
+448,848-24-9445,Member,C,p_01,Cash,14-Apr-2021,4.9
+145,856-22-8149,Normal,A,p_03,Ewallet,20-Jan-2021,6.1
+764,699-01-4164,Normal,C,p_01,Credit card,7-Feb-2022,8.2
+634,420-11-4919,Member,C,p_05,Credit card,24-Nov-2019,5.5
+459,606-80-4905,Member,C,p_04,Credit card,4-Sep-2021,6.8
+7,542-41-0513,Member,B,p_02,Cash,17-Oct-2021,6.6
+273,426-39-2418,Normal,C,p_02,Cash,18-Aug-2020,9.8
+803,875-46-5808,Member,B,p_01,Ewallet,8-Dec-2021,8.7
+96,394-43-4238,Member,B,p_03,Credit card,13-Jan-2021,5.4
+796,749-24-1565,Normal,A,p_01,Ewallet,6-Mar-2022,7.9
+511,672-51-8681,Member,C,p_02,Credit card,11-Mar-2022,9.7
+458,263-87-5680,Member,C,p_03,Ewallet,11-Jan-2021,7.8
+934,573-58-9734,Normal,B,p_06,Ewallet,17-Sep-2021,5.1
+462,817-69-8206,Normal,B,p_02,Credit card,8-Nov-2020,6.5
+61,888-02-0338,Normal,A,p_02,Ewallet,5-Jun-2020,5.9
+97,677-11-0152,Normal,C,p_05,Cash,9-Sep-2020,8.8
+360,142-63-6033,Normal,B,p_03,Ewallet,16-Jan-2019,4.9
+359,656-16-1063,Normal,B,p_04,Credit card,6-Apr-2019,4.4
+545,891-58-8335,Member,B,p_04,Cash,13-Oct-2021,6.5
+501,802-43-8934,Normal,A,p_03,Credit card,22-Feb-2022,8.3
+549,560-30-5617,Normal,B,p_04,Cash,21-Oct-2019,8.5
+902,319-74-2561,Member,A,p_02,Cash,15-Sep-2019,5.5
+452,549-03-9315,Normal,B,p_06,Ewallet,19-Jun-2019,8.7
+195,790-29-1172,Normal,B,p_05,Credit card,22-Nov-2020,7.9
+329,239-36-3640,Normal,B,p_02,Ewallet,14-Jun-2019,6.1
+308,468-01-2051,Normal,B,p_05,Ewallet,7-Jan-2020,5.4
+635,389-25-3394,Normal,C,p_02,Cash,25-May-2019,9.4
+40,279-62-1445,Member,C,p_06,Cash,26-Feb-2019,8.2
+355,213-72-6612,Normal,A,p_05,Cash,8-Mar-2022,6.2
+126,746-68-6593,Member,C,p_04,Credit card,4-Jul-2021,9.7
+866,836-82-5858,Member,B,p_01,Ewallet,22-Jan-2019,4
+263,583-72-1480,Member,C,p_02,Ewallet,28-Jan-2022,9.7
+596,466-61-5506,Member,B,p_02,Cash,25-Feb-2019,5.3
+233,721-86-6247,Normal,A,p_03,Ewallet,14-Nov-2020,7.4
+306,289-65-5721,Normal,B,p_06,Cash,28-Jan-2021,6.5
+385,545-46-3100,Member,B,p_02,Credit card,10-May-2019,8.7
+777,418-02-5978,Normal,B,p_01,Cash,23-Jul-2020,8
+801,269-04-5750,Member,B,p_06,Cash,15-Dec-2020,6.7
+131,157-13-5295,Member,A,p_01,Ewallet,13-Nov-2019,6.5
+358,645-78-8093,Normal,A,p_04,Ewallet,16-Feb-2021,4.1
+250,211-30-9270,Normal,C,p_01,Credit card,1-Dec-2019,4.9
+937,755-12-3214,Member,C,p_06,Credit card,5-Jul-2019,8.6
+296,346-84-3103,Member,B,p_02,Cash,24-Feb-2019,4.3
+724,478-06-7835,Normal,A,p_06,Ewallet,19-Nov-2020,4.9
+592,540-11-4336,Normal,A,p_05,Credit card,8-Jun-2021,5.6
+557,448-81-5016,Normal,A,p_01,Credit card,17-Jan-2020,5.8
+853,142-72-4741,Member,C,p_06,Credit card,22-Feb-2019,6
+294,217-58-1179,Member,A,p_03,Cash,14-Mar-2022,4.2
+375,376-02-8238,Normal,B,p_03,Credit card,26-Mar-2021,8.3
+992,530-90-9855,Member,A,p_03,Cash,7-Feb-2021,5.7
+792,866-05-7563,Member,B,p_02,Cash,30-Jul-2021,4.8
+162,604-70-6476,Member,A,p_06,Ewallet,5-Apr-2021,6.8
+754,799-71-1548,Member,A,p_02,Credit card,25-Jun-2019,8.8
+566,785-13-7708,Normal,B,p_05,Credit card,20-Mar-2019,4.2
+858,845-51-0542,Member,B,p_05,Ewallet,11-Oct-2020,6.4
+788,662-47-5456,Member,C,p_06,Credit card,8-Mar-2019,8.4
+338,883-17-4236,Normal,C,p_04,Credit card,17-Oct-2019,7.2
+909,290-68-2984,Normal,A,p_03,Cash,6-Jun-2021,5.2
+551,704-11-6354,Member,A,p_03,Cash,7-Apr-2021,8.9
+241,110-48-7033,Member,B,p_06,Cash,8-Jun-2020,9
+428,366-93-0948,Member,A,p_02,Credit card,17-Mar-2021,9.7
+277,729-09-9681,Member,A,p_03,Ewallet,2-Jun-2021,8.7
+322,151-16-1484,Member,A,p_02,Ewallet,28-Jul-2020,6.5
+744,380-94-4661,Member,C,p_02,Credit card,22-Mar-2019,6.9
+119,850-41-9669,Normal,A,p_02,Ewallet,24-Sep-2019,6.2
+337,821-07-3596,Normal,C,p_06,Ewallet,8-Oct-2019,5.6
+581,655-85-5130,Member,B,p_06,Cash,4-Dec-2020,5.7
+135,447-15-7839,Member,A,p_04,Cash,2-Aug-2021,4.2
+763,154-74-7179,Normal,B,p_04,Ewallet,9-Nov-2019,7.9
+924,253-12-6086,Member,A,p_04,Credit card,28-Nov-2021,8.7
+529,808-65-0703,Normal,C,p_03,Credit card,1-Nov-2019,6.9
+53,571-94-0759,Member,B,p_05,Cash,4-Oct-2020,9.5
+419,144-51-6085,Member,A,p_03,Credit card,26-Aug-2021,4.4
+537,731-14-2199,Member,A,p_03,Ewallet,20-Jan-2019,7
+556,783-09-1637,Normal,B,p_04,Ewallet,22-Mar-2020,6.3
+287,687-15-1097,Member,C,p_01,Cash,25-Dec-2019,9.7
+867,126-54-1082,Member,A,p_03,Credit card,5-Sep-2019,8.8
+588,633-91-1052,Normal,A,p_03,Cash,12-Apr-2020,5.1
+950,477-24-6490,Normal,B,p_01,Ewallet,13-Oct-2020,7.9
+54,566-19-5475,Normal,B,p_06,Cash,17-May-2019,6.2
+673,526-86-8552,Member,C,p_03,Cash,14-Mar-2021,7.1
+256,376-56-3573,Normal,C,p_06,Ewallet,29-Nov-2019,6.4
+898,537-72-0426,Member,C,p_06,Cash,19-May-2021,5.7
+69,828-61-5674,Member,A,p_04,Credit card,15-Mar-2020,9.6
+606,136-08-6195,Normal,A,p_03,Credit card,12-Oct-2019,6.4
+138,523-38-0215,Normal,C,p_03,Credit card,7-Feb-2020,7.9
+539,490-29-1201,Normal,A,p_04,Cash,8-Jul-2019,6.5
+994,667-92-0055,Member,A,p_01,Ewallet,26-Dec-2020,8.5
+963,565-17-3836,Member,A,p_01,Cash,4-Jan-2020,9.1
+921,498-41-1961,Normal,B,p_01,Cash,18-Sep-2019,7.6
+39,593-95-4461,Member,C,p_03,Cash,25-Jan-2019,6.9
+424,226-71-3580,Normal,C,p_04,Cash,15-Nov-2021,9.5
+884,283-79-9594,Normal,B,p_05,Credit card,5-Jan-2021,5.2
+149,430-60-3493,Member,A,p_03,Cash,24-Aug-2019,4.2
+753,139-20-0155,Member,B,p_02,Credit card,18-May-2019,7
+151,558-80-4082,Normal,C,p_02,Ewallet,13-May-2020,6
+610,278-97-7759,Member,A,p_02,Cash,2-Sep-2020,4.7
+766,316-68-6352,Member,A,p_05,Cash,11-Jun-2020,7.1
+249,585-03-5943,Normal,B,p_01,Ewallet,1-Oct-2021,5.9
+208,211-05-0490,Member,C,p_02,Cash,7-Oct-2020,7.5
+698,727-75-6477,Normal,C,p_02,Cash,2-Jan-2019,6.4
+17,744-02-5987,Member,A,p_03,Ewallet,13-Feb-2022,5.8
+262,307-83-9164,Member,A,p_03,Cash,22-Nov-2021,4.5
+525,779-06-0012,Member,C,p_03,Cash,4-Apr-2019,7.7
+400,446-47-6729,Normal,C,p_06,Credit card,23-May-2019,6.7
+869,573-10-3877,Member,B,p_01,Credit card,12-Jan-2022,4.7
+578,735-06-4124,Normal,C,p_05,Cash,2-May-2019,4.4
+245,439-54-7422,Normal,A,p_02,Credit card,2-Nov-2021,4.7
+570,396-90-2219,Normal,B,p_02,Cash,22-May-2019,8.6
+372,411-77-0180,Member,A,p_02,Ewallet,9-Oct-2021,4.3
+403,286-01-5402,Normal,A,p_04,Cash,6-Oct-2020,9.6
+228,803-17-8013,Member,A,p_03,Cash,6-Feb-2022,4.1
+629,512-98-1403,Member,A,p_02,Ewallet,17-Dec-2021,4.7
+168,848-42-2560,Normal,A,p_06,Cash,6-Jan-2019,7.8
+669,532-59-7201,Member,B,p_04,Cash,17-Jul-2019,5.5
+269,181-94-6432,Member,C,p_06,Ewallet,23-Aug-2019,9.7
+586,870-76-1733,Member,A,p_05,Credit card,7-Nov-2020,4.4
+438,423-64-4619,Member,A,p_01,Cash,25-Mar-2020,5
+521,227-07-4446,Member,C,p_02,Cash,29-Oct-2021,4.4
+787,174-36-3675,Member,C,p_05,Cash,21-Oct-2021,5.2
+916,428-83-5800,Member,C,p_05,Cash,21-Jul-2019,7.3
+309,603-07-0961,Member,C,p_02,Cash,27-Sep-2019,4.9
+391,704-20-4138,Member,C,p_01,Credit card,10-Sep-2019,8.1
+124,787-15-1757,Member,C,p_01,Ewallet,6-Apr-2021,8.4
+849,649-11-3678,Normal,C,p_05,Cash,14-Oct-2021,5.5
+598,622-20-1945,Normal,C,p_01,Cash,8-May-2020,8.4
+683,372-94-8041,Normal,A,p_01,Ewallet,15-Nov-2020,9.8
+741,563-91-7120,Normal,A,p_06,Cash,16-Oct-2020,6.7
+335,746-54-5508,Normal,A,p_03,Credit card,21-Jan-2020,9.4
+808,276-54-0879,Normal,B,p_04,Ewallet,7-Jan-2021,6.4
+388,815-11-1168,Member,A,p_05,Cash,3-Jun-2020,5.4
+624,719-76-3868,Member,C,p_05,Cash,15-May-2020,8.6
+791,730-61-8757,Member,B,p_01,Credit card,10-Jun-2019,4
+285,340-66-0321,Member,A,p_02,Cash,30-Jun-2020,7.6
+947,868-81-1752,Normal,B,p_03,Cash,30-Dec-2019,6.8
+71,634-97-8956,Normal,A,p_05,Credit card,10-Sep-2020,9.1
+301,566-71-1091,Normal,A,p_06,Cash,24-Feb-2022,5.5
+426,442-48-3607,Member,A,p_05,Credit card,10-Mar-2019,7.9
+70,835-16-0096,Member,C,p_04,Ewallet,11-May-2019,8.5
+725,527-09-6272,Member,A,p_02,Credit card,5-Apr-2019,9.1
+336,898-04-2717,Normal,A,p_06,Ewallet,26-Aug-2020,7.5
+341,692-27-8933,Normal,B,p_04,Cash,24-Jun-2019,5.2
+519,633-09-3463,Normal,C,p_02,Credit card,13-Apr-2020,9.5
+324,374-17-3652,Member,B,p_05,Credit card,6-Dec-2020,8.9
+93,378-07-7001,Member,B,p_02,Credit card,30-Aug-2020,7.8
+147,433-75-6987,Member,B,p_01,Ewallet,9-Aug-2021,8.9
+166,873-95-4984,Member,B,p_01,Cash,25-Aug-2021,7.7
+75,416-13-5917,Normal,C,p_05,Ewallet,6-Jan-2021,9.3
+79,150-89-8043,Normal,A,p_04,Cash,4-Aug-2019,6.2
+389,135-84-8019,Normal,A,p_06,Ewallet,17-Feb-2021,7.6
+425,441-94-7118,Member,A,p_02,Cash,5-Feb-2022,7.3
+16,725-96-3778,Member,C,p_03,Cash,25-Oct-2019,4.7
+175,531-80-1784,Normal,A,p_02,Cash,14-Jan-2020,5.1
+512,400-45-1220,Normal,B,p_01,Credit card,2-Dec-2019,4.8
+540,860-79-0874,Member,C,p_06,Credit card,4-Dec-2021,6.6
+900,834-61-8124,Normal,A,p_02,Cash,1-Dec-2020,5.5
+275,115-99-4379,Member,B,p_06,Credit card,24-May-2019,8.5
+365,565-67-6697,Member,B,p_03,Cash,6-Oct-2019,4.8
+24,320-49-6392,Normal,C,p_02,Cash,15-Oct-2021,8.4
+811,889-04-9723,Member,B,p_05,Credit card,7-Sep-2020,7.8
+323,632-90-0281,Normal,C,p_06,Credit card,30-Apr-2020,9.3
+616,554-42-2417,Normal,C,p_04,Cash,1-Jun-2021,5.2
+599,453-63-6187,Normal,B,p_02,Ewallet,24-Apr-2021,6.5
+347,578-80-7669,Normal,B,p_04,Cash,25-Jan-2020,5.6
+349,612-36-5536,Member,A,p_05,Credit card,18-Sep-2021,7.4
+408,605-72-4132,Normal,C,p_05,Cash,6-Jan-2020,9.1
+330,471-41-2823,Normal,C,p_05,Ewallet,19-Dec-2020,8
+229,462-67-9126,Normal,A,p_03,Cash,6-Feb-2019,7.2
+496,272-27-9238,Normal,C,p_05,Cash,26-Sep-2019,7.1
+106,834-25-9262,Normal,C,p_06,Cash,5-Jan-2019,9.1
+43,122-61-9553,Normal,C,p_02,Cash,29-Sep-2020,5.6
+379,468-88-0009,Member,A,p_03,Cash,22-Sep-2019,6
+50,613-59-9758,Normal,C,p_04,Cash,16-Jul-2019,5.4
+999,254-31-0042,Member,A,p_02,Credit card,9-Feb-2021,7.8
+292,201-86-2184,Member,B,p_02,Cash,25-Aug-2020,9.9
+948,261-12-8671,Normal,B,p_06,Credit card,1-Dec-2021,4.9
+247,730-70-9830,Normal,C,p_03,Ewallet,8-Feb-2022,5.2
+800,382-25-8917,Normal,C,p_06,Cash,5-Jul-2020,8.9
+463,422-29-8786,Normal,A,p_03,Credit card,8-May-2021,9.1
+664,667-23-5919,Member,A,p_06,Ewallet,18-Aug-2019,7
+960,843-01-4703,Member,B,p_03,Credit card,30-Aug-2021,9.6
+633,743-88-1662,Normal,C,p_04,Ewallet,1-Nov-2021,8.7
+108,595-86-2894,Member,C,p_06,Ewallet,8-Aug-2020,9.4
+243,182-69-8360,Normal,B,p_02,Credit card,27-Feb-2021,4
+875,289-15-7034,Member,A,p_04,Credit card,7-Feb-2019,7.5
+751,462-78-5240,Normal,C,p_02,Cash,12-Jan-2019,4.2
+34,868-52-7573,Normal,B,p_05,Cash,28-Feb-2021,9.9
+967,153-58-4872,Member,C,p_05,Ewallet,24-Jun-2020,4.2
+342,662-72-2873,Normal,A,p_05,Ewallet,4-Jun-2019,9.9
+230,525-88-7307,Member,B,p_04,Cash,10-Apr-2020,5.8
+731,689-16-9784,Normal,C,p_05,Cash,21-Sep-2021,6
+648,725-56-0833,Normal,A,p_01,Credit card,1-Jul-2020,10
+212,394-41-0748,Member,C,p_06,Ewallet,21-Mar-2021,9.5
+544,596-42-3999,Normal,B,p_05,Credit card,11-May-2021,6.6
+552,541-89-9860,Member,C,p_06,Cash,26-Nov-2020,8.1
+708,173-82-9529,Normal,B,p_06,Cash,15-Feb-2019,9.7
+671,563-36-9814,Member,A,p_02,Ewallet,12-Dec-2019,7.2
+732,308-47-4913,Member,A,p_04,Credit card,24-Jun-2021,6.2
+37,885-17-6250,Normal,A,p_01,Ewallet,5-Dec-2020,7.3
+692,726-27-2396,Normal,A,p_01,Ewallet,13-Aug-2020,4.3
+576,316-01-3952,Normal,A,p_05,Ewallet,10-Oct-2020,4.6
+214,760-54-1821,Normal,B,p_03,Cash,10-Oct-2021,5.8
+332,793-10-3222,Member,B,p_01,Credit card,24-Sep-2020,8.3
+267,346-12-3257,Member,B,p_02,Cash,17-Mar-2022,8
+826,110-05-6330,Normal,C,p_05,Credit card,11-Apr-2019,9.4
+286,651-61-0874,Normal,C,p_03,Credit card,18-Nov-2020,6.2
+160,236-86-3015,Member,C,p_03,Ewallet,16-Mar-2020,9.8
+817,831-64-0259,Normal,B,p_06,Ewallet,22-Dec-2020,9.6
+312,587-03-7455,Member,C,p_06,Ewallet,3-Mar-2020,4.9
+726,882-40-4577,Member,A,p_04,Credit card,16-Sep-2021,8
+740,732-67-5346,Normal,A,p_05,Credit card,21-Feb-2022,7.8
+638,725-32-9708,Member,B,p_06,Cash,20-Mar-2021,4.1
+656,256-08-8343,Normal,A,p_03,Ewallet,23-Mar-2020,5.5
+141,372-26-1506,Normal,C,p_06,Ewallet,28-Sep-2021,5.4
+371,244-08-0162,Normal,B,p_01,Cash,7-May-2021,5.1
+798,569-71-4390,Normal,B,p_04,Ewallet,11-Jan-2020,6.9
+87,132-23-6451,Member,A,p_01,Cash,12-May-2020,7.8
+797,696-90-2548,Normal,A,p_04,Ewallet,22-Feb-2021,6.6
+851,472-15-9636,Normal,A,p_03,Ewallet,10-May-2021,9.2
+364,268-03-6164,Normal,B,p_01,Ewallet,9-Jul-2021,7.8
+584,750-57-9686,Normal,C,p_03,Credit card,22-Apr-2021,8.7
+713,186-09-3669,Member,C,p_01,Ewallet,20-Jul-2021,9.2
+824,848-07-1692,Normal,B,p_01,Ewallet,21-Sep-2019,8.3
+872,745-71-3520,Member,A,p_02,Cash,16-Jun-2019,8.2
+478,266-76-6436,Member,C,p_05,Ewallet,2-Oct-2019,7.5
+251,740-22-2500,Normal,C,p_02,Cash,25-May-2021,9.8
+654,271-88-8734,Member,C,p_06,Credit card,26-Apr-2021,8.7
+871,301-81-8610,Member,B,p_06,Credit card,2-Oct-2021,6.7
+280,489-64-4354,Normal,C,p_06,Cash,27-Aug-2019,5
+493,198-84-7132,Member,B,p_06,Cash,13-Jul-2020,7
+281,269-10-8440,Member,A,p_01,Cash,6-May-2019,8.9
+299,650-98-6268,Member,B,p_05,Credit card,12-Feb-2022,8
+276,741-73-3559,Normal,B,p_04,Cash,21-Jun-2020,6.9
+684,325-77-6186,Member,A,p_03,Ewallet,14-Apr-2020,7.3
+421,286-75-7818,Normal,B,p_06,Credit card,24-Apr-2020,6.9
+541,574-57-9721,Normal,C,p_05,Ewallet,14-Jun-2021,5.7
+8,459-50-7686,Normal,A,p_02,Ewallet,3-Dec-2019,6.4
+451,616-87-0016,Normal,B,p_06,Credit card,20-Dec-2019,9.6
+700,837-55-7229,Normal,B,p_06,Credit card,3-Dec-2020,6.8
+670,751-69-0068,Normal,C,p_04,Ewallet,16-Mar-2022,9
+317,257-73-1380,Member,C,p_04,Ewallet,14-Oct-2020,9.6
+224,345-08-4992,Normal,A,p_03,Credit card,3-Oct-2020,7.7
+655,549-96-4200,Member,C,p_05,Ewallet,6-Apr-2020,7
+482,810-60-6344,Normal,C,p_02,Credit card,1-Jan-2021,6.5
+411,450-28-2866,Member,C,p_05,Cash,25-Jan-2022,8.1
+257,394-30-3170,Member,B,p_04,Credit card,21-Mar-2020,4.3
+86,138-17-5109,Member,A,p_03,Credit card,11-Jun-2021,6.5
+758,192-98-7397,Normal,C,p_06,Ewallet,17-Feb-2020,9.5
+36,301-11-9629,Normal,A,p_04,Cash,2-Feb-2022,9.7
+295,390-80-5128,Member,B,p_01,Credit card,24-May-2021,9.5
+661,235-46-8343,Member,C,p_05,Credit card,9-May-2020,8.9
+310,453-12-7053,Normal,C,p_06,Credit card,11-Mar-2021,6.5
+876,296-11-7041,Member,B,p_01,Credit card,21-Apr-2019,5.3
+630,449-27-2918,Member,B,p_04,Credit card,31-Aug-2021,9.6
+686,891-01-7034,Normal,B,p_02,Cash,31-May-2020,6.7
+290,744-09-5786,Normal,B,p_02,Cash,10-Feb-2019,7.6
+81,727-17-0390,Normal,A,p_05,Ewallet,30-Nov-2021,4.8
+216,568-88-3448,Normal,A,p_01,Ewallet,24-Feb-2020,5.5
+381,187-83-5490,Member,A,p_02,Cash,12-May-2019,4.7
+407,767-54-1907,Member,B,p_06,Cash,26-Nov-2021,6.9
+177,710-46-4433,Member,B,p_05,Credit card,30-Jun-2021,4.5
+219,533-33-5337,Normal,B,p_02,Cash,26-Feb-2020,6.2
+553,325-90-8763,Member,C,p_02,Cash,7-Jun-2019,7.6
+516,729-46-7422,Normal,C,p_05,Credit card,8-Apr-2021,7.9
+780,639-76-1242,Normal,C,p_05,Cash,5-Dec-2019,4.5
+480,234-03-4040,Member,B,p_05,Credit card,24-May-2020,8.7
+464,326-71-2155,Normal,C,p_04,Cash,9-Dec-2019,6.1
+815,320-32-8842,Member,C,p_05,Cash,17-Oct-2020,6.4
+132,470-32-9057,Member,A,p_05,Credit card,3-Nov-2021,9.1
+770,878-30-2331,Member,C,p_04,Credit card,2-Nov-2019,7.1
+649,440-59-5691,Member,C,p_01,Credit card,11-Dec-2020,7.7
+60,554-53-3790,Normal,B,p_04,Cash,22-Jan-2022,4.5
+328,746-19-0921,Normal,C,p_05,Ewallet,28-Aug-2019,7.2
+384,233-34-0817,Member,C,p_02,Cash,13-Sep-2021,8.4
+466,767-05-1286,Member,C,p_03,Ewallet,8-Mar-2021,5.4
+142,340-21-9136,Member,A,p_04,Cash,10-Jul-2019,9.7
+568,405-31-3305,Member,A,p_06,Credit card,9-May-2019,5.5
+883,731-59-7531,Member,B,p_01,Cash,10-Dec-2020,4.6
+980,676-39-6028,Member,A,p_02,Cash,29-Mar-2021,6.6
+29,502-05-1910,Normal,A,p_01,Credit card,11-Jul-2021,6.3
+863,485-30-8700,Normal,A,p_04,Credit card,24-Jul-2019,4.2
+523,598-47-9715,Normal,C,p_02,Ewallet,10-Oct-2019,4.4
+193,701-69-8742,Normal,B,p_04,Ewallet,15-Sep-2020,6.7
+769,575-67-1508,Normal,A,p_02,Ewallet,5-Jan-2020,6.7
+21,541-08-3113,Normal,C,p_05,Cash,4-Nov-2019,8.4
+430,246-11-3901,Normal,C,p_02,Cash,22-May-2021,6.2
+450,674-15-9296,Normal,A,p_04,Ewallet,14-Aug-2020,5
+88,305-18-3552,Member,B,p_03,Cash,15-Sep-2021,6
+503,493-65-6248,Member,C,p_04,Credit card,19-Mar-2020,7
+467,438-01-4015,Member,B,p_04,Ewallet,3-Jan-2021,6.6
+877,709-58-4068,Normal,B,p_06,Cash,5-Mar-2020,7.3
+789,795-49-7276,Normal,A,p_06,Ewallet,2-Aug-2019,8.3
+361,556-72-8512,Normal,C,p_03,Cash,16-Jan-2021,4.3
+95,627-95-3243,Member,B,p_03,Ewallet,22-Jul-2021,9.8
+528,686-41-0932,Normal,B,p_06,Ewallet,23-Feb-2020,8.2
+773,510-09-5628,Member,A,p_06,Credit card,4-Sep-2019,7.2
+760,608-04-3797,Member,B,p_01,Ewallet,6-Jun-2019,8.7
+825,148-82-2527,Member,C,p_03,Credit card,27-May-2021,8.4
+348,437-53-3084,Normal,B,p_06,Ewallet,31-Dec-2020,7.1
+835,632-32-4574,Normal,B,p_04,Cash,20-Jun-2020,5.5
+465,556-97-7101,Normal,C,p_02,Cash,14-Jan-2019,8.5
+444,862-59-8517,Normal,C,p_05,Cash,10-Jun-2020,6.2
+143,401-18-8016,Member,B,p_04,Cash,24-Mar-2019,8.9
+842,420-18-8989,Member,A,p_04,Cash,26-May-2020,9.6
+733,277-63-2961,Member,B,p_04,Credit card,31-Jul-2021,5.4
+984,573-98-8548,Member,C,p_06,Ewallet,30-Jul-2020,9.1
+320,620-02-2046,Normal,C,p_03,Ewallet,6-Oct-2021,9
+595,282-35-2475,Normal,B,p_04,Cash,14-Oct-2019,6.3
+98,511-54-3087,Normal,B,p_04,Credit card,1-Apr-2021,9.5
+771,726-29-6793,Member,A,p_02,Ewallet,15-Nov-2019,9.8
+491,387-49-4215,Member,B,p_04,Cash,8-Sep-2021,6.7
+522,862-17-9201,Normal,B,p_05,Credit card,4-Feb-2020,7.7
+697,291-21-5991,Member,B,p_01,Cash,14-Aug-2021,7
+614,602-80-9671,Member,C,p_03,Credit card,8-Apr-2019,5.1
+107,347-72-6115,Member,B,p_04,Credit card,28-Dec-2020,6.2
+62,209-61-0206,Normal,A,p_03,Ewallet,19-May-2020,6.1
+390,595-27-4851,Normal,A,p_06,Ewallet,29-Oct-2019,9.3
+702,189-52-0236,Normal,A,p_02,Cash,12-Jan-2021,7.6
+173,503-07-0930,Member,C,p_04,Credit card,9-Mar-2020,8.2
+498,413-20-6708,Member,C,p_06,Ewallet,21-Nov-2019,8.5
+607,425-85-2085,Member,B,p_01,Ewallet,13-Sep-2019,9.8
+65,521-18-7827,Member,C,p_03,Credit card,23-Apr-2019,8.7
+179,220-28-1851,Normal,A,p_03,Ewallet,21-Nov-2021,9.7
+406,600-38-9738,Member,C,p_04,Credit card,15-Jul-2020,4.3
+562,734-91-1155,Normal,B,p_02,Credit card,31-Aug-2019,7.7
+382,451-28-5717,Member,C,p_03,Cash,26-Jan-2019,7.3
+885,609-81-8548,Member,A,p_03,Credit card,29-Jul-2019,5.9
+857,133-14-7229,Normal,C,p_01,Cash,6-Jul-2020,5
+923,534-01-4457,Normal,A,p_05,Credit card,20-Dec-2020,8
+487,719-89-8991,Member,A,p_04,Ewallet,31-Dec-2021,7.1
+259,286-62-6248,Normal,B,p_06,Credit card,6-May-2020,9
+242,339-38-9982,Member,B,p_06,Ewallet,31-Mar-2021,6.7
+953,827-44-5872,Member,B,p_05,Credit card,30-May-2021,6.1
+532,827-77-7633,Normal,A,p_04,Cash,13-Jan-2019,9.3
+472,287-83-1405,Normal,A,p_01,Ewallet,27-Dec-2019,7
+394,435-13-4908,Member,A,p_06,Credit card,6-Sep-2019,7.2
+955,857-67-9057,Normal,B,p_02,Ewallet,27-Oct-2020,8.2
+473,236-27-1144,Normal,C,p_05,Ewallet,28-Aug-2021,8.4
+749,892-05-6689,Normal,A,p_03,Ewallet,13-Jul-2019,6.2
+136,583-41-4548,Normal,C,p_03,Ewallet,26-Mar-2019,7.4
+714,339-12-4827,Member,B,p_06,Credit card,28-May-2020,5
+784,643-38-7867,Normal,A,p_03,Ewallet,23-Jul-2021,6.9
+479,308-81-0538,Normal,A,p_06,Credit card,1-Feb-2021,4.9
+47,358-88-9262,Member,C,p_05,Ewallet,17-Nov-2021,5.1
+178,460-35-4390,Normal,A,p_03,Ewallet,18-Feb-2019,9.1
+240,343-87-0864,Member,C,p_01,Credit card,27-Sep-2021,7.1
+990,173-50-1108,Member,B,p_04,Credit card,14-Jun-2020,5
+356,243-47-2663,Member,C,p_02,Credit card,9-Dec-2021,5.5
+488,841-18-8232,Normal,B,p_05,Credit card,30-Oct-2021,9.2
+864,701-23-5550,Member,B,p_03,Ewallet,23-Jan-2021,4.9
+80,647-50-1224,Normal,A,p_06,Ewallet,27-May-2019,8.9
+712,541-48-8554,Normal,A,p_04,Credit card,30-Apr-2019,6
+170,539-21-7227,Normal,B,p_04,Cash,7-Jan-2019,4.2
+23,213-32-1216,Normal,A,p_02,Cash,20-Mar-2020,7.3
+704,747-58-7183,Normal,B,p_06,Ewallet,19-Aug-2019,6.5
+625,582-52-8065,Normal,B,p_06,Cash,28-Jun-2020,8.9
+922,210-57-1719,Normal,B,p_01,Cash,5-Nov-2019,9.7
+695,399-69-4630,Normal,C,p_02,Credit card,1-Jun-2020,8.6
+928,134-75-2619,Member,A,p_02,Cash,13-Apr-2021,6.9
+246,356-44-8813,Normal,B,p_03,Credit card,14-Jul-2020,7.7
+340,198-66-9832,Member,B,p_06,Cash,28-Jun-2019,9.5
+209,283-26-5248,Member,C,p_05,Ewallet,19-Aug-2021,4.5
+845,712-39-0363,Member,A,p_05,Ewallet,4-Jan-2022,5.6
+663,218-59-9410,Member,A,p_03,Ewallet,26-Feb-2022,8.2
+244,174-75-0888,Normal,B,p_02,Cash,2-Jun-2020,7.3
+828,866-99-7614,Normal,C,p_05,Credit card,12-Jun-2020,4.4
+518,134-54-4720,Normal,B,p_02,Ewallet,16-Feb-2019,5.7
+677,760-90-2357,Member,A,p_02,Ewallet,18-Dec-2019,5
+453,514-37-2845,Normal,B,p_06,Cash,5-Apr-2020,9
+894,698-98-5964,Normal,A,p_05,Credit card,15-Apr-2019,6.3
+701,718-57-9773,Normal,C,p_04,Credit card,25-Nov-2020,9.4
+855,651-88-7328,Normal,A,p_06,Cash,11-Oct-2019,7.7
+456,241-11-2261,Normal,B,p_06,Credit card,23-Nov-2021,5.5
+949,408-26-9866,Normal,C,p_04,Ewallet,23-Jan-2020,4.1
+457,834-83-1826,Member,B,p_03,Credit card,2-Feb-2020,7.6
+862,343-61-3544,Member,B,p_04,Cash,16-Dec-2021,8.6
+846,239-48-4278,Member,A,p_05,Ewallet,23-Mar-2021,8.3
+446,355-34-6244,Normal,B,p_05,Credit card,7-Dec-2019,8.1
+225,550-84-8664,Normal,A,p_04,Credit card,24-Oct-2020,8.6
+626,339-96-8318,Member,B,p_06,Ewallet,3-Oct-2021,6.3
+983,458-61-0011,Normal,B,p_05,Cash,28-Apr-2019,5.8
+743,592-34-6155,Normal,C,p_05,Ewallet,3-Jul-2021,6.2
+30,797-88-0493,Normal,A,p_01,Cash,21-Jun-2021,7.7
+774,207-73-1363,Normal,B,p_01,Ewallet,11-Mar-2019,8.1
+439,390-31-6381,Normal,C,p_05,Cash,23-Aug-2021,7.3
+810,443-82-0585,Member,A,p_01,Cash,21-Jun-2019,8.4
+409,339-18-7061,Member,C,p_06,Credit card,26-Apr-2019,8
+486,359-90-3665,Member,B,p_06,Credit card,18-Aug-2021,9.5
+623,375-72-3056,Normal,B,p_04,Ewallet,16-May-2020,7
+417,127-47-6963,Normal,A,p_01,Credit card,19-Jan-2020,9.8
+577,278-86-2735,Normal,A,p_05,Cash,30-Aug-2019,9.2
+84,695-28-6250,Normal,A,p_04,Ewallet,6-Sep-2020,7.7
+51,379-17-6588,Normal,C,p_06,Cash,14-Feb-2020,5.3
+637,227-50-3718,Normal,A,p_01,Cash,24-Oct-2021,4.4
+639,302-15-2162,Member,C,p_01,Credit card,29-Oct-2020,4.3
+402,788-07-8452,Member,C,p_03,Ewallet,25-Jul-2021,9.4
+412,560-49-6611,Member,A,p_04,Cash,11-Sep-2019,9.8
+38,880-35-0356,Member,A,p_04,Ewallet,4-Jun-2020,4.8
+996,585-11-6748,Member,B,p_04,Cash,14-Aug-2019,5.3
+710,470-31-3286,Normal,B,p_01,Credit card,17-Feb-2022,8.7
+547,152-68-2907,Normal,A,p_05,Credit card,23-Apr-2021,9.5
+668,123-35-4896,Normal,C,p_04,Ewallet,22-Oct-2020,5.3
+405,258-69-7810,Normal,C,p_06,Cash,15-Jan-2021,9.2
+300,334-64-2006,Member,A,p_03,Ewallet,5-Oct-2021,9.6
+331,219-61-4139,Normal,C,p_02,Ewallet,24-Sep-2021,6.4
+460,881-41-7302,Normal,C,p_06,Credit card,7-Sep-2021,4.5
+393,373-09-4567,Normal,C,p_05,Ewallet,23-Feb-2022,6.9
+122,642-30-6693,Normal,B,p_04,Ewallet,15-Apr-2021,7.8
+594,484-22-8230,Member,C,p_06,Cash,18-Feb-2021,4.5
+117,830-58-2383,Normal,B,p_03,Cash,13-Oct-2019,8.6
+997,559-98-9873,Member,A,p_06,Ewallet,13-Nov-2021,5.2
+716,544-32-5024,Member,C,p_05,Credit card,12-Aug-2021,6.4
+929,318-12-0304,Normal,A,p_06,Ewallet,2-Apr-2021,5.2
+253,349-97-8902,Member,B,p_05,Ewallet,7-May-2020,8.9
+161,421-95-9805,Normal,A,p_02,Credit card,26-Apr-2020,6.2
+653,277-35-5865,Member,C,p_05,Cash,23-Sep-2020,6.7
+291,789-23-8625,Member,B,p_06,Cash,27-Nov-2020,7.2
+303,284-54-4231,Member,C,p_04,Credit card,31-May-2021,9
+535,443-59-0061,Member,A,p_05,Ewallet,3-Jun-2019,4.2
+882,509-29-3912,Member,A,p_04,Ewallet,13-Feb-2021,4.2
+709,327-40-9673,Member,B,p_04,Cash,4-Nov-2021,6.9
+326,840-19-2096,Member,C,p_02,Ewallet,24-Nov-2021,4.4
+893,828-46-6863,Member,A,p_05,Credit card,10-Jul-2020,4
+474,641-96-3695,Member,C,p_06,Ewallet,5-Dec-2021,8.5
+530,420-97-3340,Normal,A,p_05,Credit card,21-May-2020,9.2
+357,436-54-4512,Member,A,p_05,Cash,28-Oct-2020,9.8
+238,670-79-6321,Member,B,p_03,Credit card,6-Sep-2021,4.9
+410,852-62-7105,Normal,B,p_06,Credit card,11-Nov-2019,4.4
+76,598-06-7312,Member,B,p_06,Cash,19-Oct-2019,6.8
+64,135-13-8269,Member,B,p_05,Cash,11-Feb-2021,9.1
+878,816-57-2053,Normal,A,p_04,Ewallet,25-Apr-2020,8.7
+57,628-90-8624,Member,B,p_01,Cash,23-Mar-2019,5
+856,856-66-2701,Member,A,p_03,Ewallet,2-Sep-2021,7.5
+72,308-39-1707,Normal,A,p_06,Credit card,4-Sep-2020,8.2
+165,149-61-1929,Normal,A,p_04,Credit card,27-Jun-2021,6.7
+636,655-07-2265,Normal,A,p_02,Ewallet,15-Jan-2020,5.4
+643,589-02-8023,Member,A,p_05,Credit card,12-Apr-2019,7
+631,420-04-7590,Normal,B,p_03,Ewallet,27-Apr-2019,4.7
+190,182-88-2763,Member,B,p_05,Credit card,6-Mar-2019,5
+860,188-55-0967,Member,B,p_01,Credit card,8-Apr-2020,5
+573,610-46-4100,Normal,A,p_01,Credit card,10-Sep-2021,6
+455,318-81-2368,Normal,C,p_02,Cash,23-Jun-2021,6.3
+583,364-33-8584,Member,B,p_05,Cash,22-Mar-2021,8.5
+908,665-63-9737,Normal,B,p_06,Ewallet,31-Jul-2020,7.5
+527,695-09-5146,Member,B,p_05,Ewallet,21-Aug-2019,6.4
+376,155-45-3814,Member,C,p_02,Ewallet,3-Apr-2019,4.7
+665,794-32-2436,Member,B,p_02,Ewallet,15-Jun-2020,6
+982,131-15-8856,Member,C,p_05,Credit card,9-Jul-2019,4
+818,273-84-2164,Member,C,p_02,Ewallet,27-Mar-2021,5.5
+167,706-36-6154,Member,A,p_03,Ewallet,16-Sep-2020,8.7
+204,778-89-7974,Normal,C,p_01,Cash,27-Aug-2021,7.4
+513,574-31-8277,Member,B,p_06,Cash,6-Feb-2021,5.6
+378,859-71-0933,Member,C,p_04,Cash,30-Sep-2019,6.3
+302,740-11-5257,Normal,C,p_02,Cash,18-Mar-2020,7.1
+689,369-82-2676,Normal,B,p_02,Ewallet,19-Apr-2020,7.8
+836,563-47-4072,Normal,B,p_01,Cash,7-Apr-2020,9.9
+31,742-04-5161,Member,A,p_03,Cash,29-Jan-2021,7.3
+940,149-15-7606,Member,B,p_04,Ewallet,29-Aug-2020,5.1
+481,133-77-3154,Member,B,p_06,Credit card,20-Nov-2021,9.4
+58,169-52-4504,Normal,A,p_02,Credit card,30-May-2020,5.8
+632,250-81-7186,Normal,C,p_02,Credit card,29-Dec-2021,8
+890,562-12-5430,Member,A,p_06,Ewallet,15-May-2019,7.9
+739,816-72-8853,Member,A,p_04,Cash,28-Feb-2022,5.9
+617,491-38-3499,Member,A,p_06,Credit card,16-Dec-2019,4.9
+261,322-02-2271,Normal,B,p_04,Cash,26-Jul-2019,9.3
+868,842-29-4695,Member,C,p_04,Credit card,14-Dec-2021,7.9
+89,725-67-2480,Member,B,p_06,Credit card,21-May-2019,5.9
+832,641-51-2661,Member,C,p_05,Credit card,28-Dec-2021,9.9
+968,714-02-3114,Normal,C,p_04,Cash,1-Mar-2021,7.7
+622,518-17-2983,Normal,A,p_06,Ewallet,17-Dec-2019,7.6
+422,779-42-2410,Member,B,p_05,Ewallet,5-Jan-2022,7.7
+781,190-14-3147,Normal,B,p_01,Ewallet,9-Oct-2020,6.4
+234,408-66-6712,Member,C,p_01,Ewallet,18-Feb-2020,4.4
+795,679-22-6530,Normal,B,p_04,Credit card,4-Apr-2020,4.1
+260,588-47-8641,Member,A,p_06,Ewallet,7-Apr-2019,4.4
+484,642-61-4706,Member,B,p_05,Cash,21-Jul-2021,5.5
+896,576-31-4774,Normal,B,p_01,Ewallet,16-Jul-2020,4
+102,556-41-6224,Normal,C,p_01,Credit card,31-Aug-2020,9.3
+344,811-03-8790,Normal,A,p_02,Credit card,1-May-2019,4.8
+289,242-11-3142,Member,B,p_06,Cash,22-Jul-2019,4.6
+111,752-23-3760,Member,B,p_04,Credit card,25-Mar-2021,7.3
+711,274-05-5470,Member,A,p_05,Cash,6-Nov-2019,6
+67,648-94-3045,Normal,C,p_01,Ewallet,6-Nov-2020,8.1
+969,130-67-4723,Member,A,p_05,Ewallet,9-Apr-2021,9.4
+104,528-87-5606,Member,B,p_02,Cash,8-Aug-2021,6.5
+597,320-85-2052,Normal,B,p_04,Credit card,6-Jul-2019,7
+628,370-96-0655,Normal,C,p_06,Ewallet,2-Apr-2020,7.1
+15,105-10-6182,Member,A,p_06,Ewallet,2-Feb-2021,6.6
+821,510-79-0415,Member,B,p_04,Ewallet,29-Apr-2020,4.9
+293,241-96-5076,Member,B,p_03,Credit card,22-Apr-2020,6.4
+820,767-97-4650,Member,B,p_04,Credit card,5-Sep-2021,8
+435,648-83-1321,Member,A,p_03,Cash,16-May-2021,4.3
+816,173-57-2300,Member,C,p_04,Cash,10-Mar-2022,6.1
+185,305-03-2383,Normal,A,p_05,Cash,5-Jun-2021,7.5
+975,394-55-6384,Member,C,p_04,Cash,3-Nov-2020,6.7
+542,266-20-6657,Member,C,p_05,Ewallet,4-Nov-2020,5.2
+11,689-05-1884,Member,A,p_01,Cash,10-Apr-2019,8.8
+646,196-01-2849,Member,C,p_06,Cash,23-Jul-2019,9.5
+729,372-62-5264,Normal,C,p_05,Cash,24-Jan-2021,7.6
+859,800-09-8606,Member,A,p_03,Cash,28-Dec-2019,6.6
+933,182-52-7000,Member,A,p_04,Ewallet,19-Oct-2020,6.9
+305,826-58-8051,Normal,B,p_03,Ewallet,12-Feb-2019,4.3
+705,868-06-0466,Member,A,p_02,Credit card,3-Mar-2019,7.8
+436,751-41-9720,Normal,C,p_03,Ewallet,18-Jun-2019,8
+722,626-43-7888,Normal,C,p_06,Ewallet,31-Jan-2021,9.6
+339,176-64-7711,Normal,B,p_05,Credit card,4-Aug-2021,4.3
+318,191-29-0321,Member,B,p_06,Credit card,1-Aug-2021,5
+116,729-06-2010,Member,B,p_01,Cash,29-Sep-2019,9.2
+756,640-48-5028,Member,B,p_03,Cash,30-Oct-2019,6.3
+192,186-79-9562,Normal,B,p_01,Cash,18-Jul-2020,8.9
+534,834-45-5519,Normal,B,p_02,Ewallet,22-Sep-2020,7.6
+718,162-65-8559,Member,C,p_05,Cash,29-Dec-2019,4.8
+395,760-27-5490,Normal,C,p_06,Ewallet,25-Apr-2019,9.1
+951,445-30-9252,Normal,A,p_04,Ewallet,31-Mar-2020,6.1
+913,786-94-2700,Member,A,p_05,Cash,11-Oct-2021,9.1
+757,728-88-7867,Member,C,p_03,Ewallet,3-Feb-2021,8.3
+804,183-21-3799,Normal,C,p_02,Ewallet,11-May-2020,7.2
+647,268-20-3585,Normal,C,p_01,Ewallet,25-Dec-2021,6
+563,735-32-9839,Member,C,p_06,Ewallet,30-Nov-2019,8.5
+830,258-92-7466,Normal,A,p_01,Credit card,27-Jan-2019,6.6
+613,857-16-3520,Member,A,p_06,Ewallet,13-Feb-2020,4.5
+915,482-17-1179,Member,A,p_02,Credit card,11-Jul-2020,8.1
+611,788-21-5741,Normal,A,p_06,Credit card,4-May-2019,7.2
+171,821-14-9046,Member,B,p_06,Credit card,8-Jan-2019,6.1
+434,418-05-0656,Normal,B,p_06,Cash,20-Apr-2019,7.1
+268,678-79-0726,Member,C,p_04,Cash,19-Jul-2021,5.1
+492,776-68-1096,Normal,B,p_03,Credit card,1-Feb-2019,7.9
+494,592-46-1692,Member,C,p_05,Cash,27-Jan-2020,7.4
+441,434-35-9162,Member,B,p_05,Ewallet,22-Oct-2021,7.4
+730,149-14-0304,Member,C,p_01,Cash,11-Aug-2021,6.6
+180,442-44-6497,Member,C,p_03,Credit card,30-Mar-2021,5.9
+752,174-64-0215,Normal,B,p_04,Credit card,25-Feb-2021,8.9
+22,210-74-9613,Normal,C,p_06,Ewallet,3-May-2021,6.8
+343,299-29-0180,Member,B,p_03,Cash,2-Jul-2020,9.3
+971,247-11-2470,Member,A,p_06,Credit card,10-Jun-2021,4.4
+52,635-28-5728,Normal,A,p_01,Ewallet,16-Jan-2022,4.8
+589,756-49-0168,Member,A,p_06,Ewallet,12-Sep-2021,9.5
+183,438-23-1242,Normal,B,p_02,Ewallet,4-Feb-2019,8.9
+316,238-45-6950,Member,B,p_05,Ewallet,29-Mar-2019,6.4
+248,607-65-2441,Member,C,p_01,Credit card,25-Oct-2021,6
+548,386-27-7606,Member,C,p_03,Credit card,30-Dec-2020,8.1
+641,137-63-5492,Normal,C,p_02,Ewallet,12-Jul-2020,9
+298,197-77-7132,Member,B,p_02,Ewallet,9-Mar-2022,6
+897,805-86-0265,Normal,A,p_03,Cash,29-Apr-2021,9.8
+454,733-29-1227,Normal,C,p_03,Cash,28-Feb-2020,8.5
+20,451-73-2711,Normal,C,p_05,Ewallet,9-Mar-2021,8.8
+715,373-14-0504,Member,A,p_04,Ewallet,10-Dec-2019,8.8
+889,546-80-2899,Member,A,p_03,Ewallet,21-Apr-2021,9.5
+954,345-68-9016,Member,C,p_04,Credit card,8-Feb-2019,5.6
+282,390-17-5806,Member,C,p_05,Cash,19-Jan-2022,8.6
+852,457-13-1708,Member,B,p_06,Credit card,21-Jan-2022,5.2
+327,664-14-2882,Member,C,p_03,Credit card,1-Jul-2019,5.8
+543,487-79-6868,Member,B,p_03,Credit card,12-Jun-2021,8
+477,314-23-4520,Member,C,p_01,Cash,16-Jul-2021,9
+972,210-30-7976,Member,B,p_06,Ewallet,18-Nov-2021,4.1
+10,585-86-8361,Normal,A,p_05,Credit card,9-Aug-2019,8.6
+651,807-14-7833,Member,A,p_02,Ewallet,18-Jun-2020,7
+237,775-72-1988,Normal,B,p_03,Ewallet,8-Sep-2019,8.4
+207,288-38-3758,Member,C,p_06,Ewallet,21-Dec-2019,7.4
+970,652-43-6591,Normal,A,p_06,Credit card,31-Oct-2019,6.2
+891,785-96-0615,Member,B,p_02,Ewallet,3-Mar-2021,4.9
+199,406-46-7107,Normal,A,p_03,Cash,29-Aug-2021,4.5
+995,250-17-5703,Member,A,p_05,Ewallet,12-Oct-2021,5.6
+100,156-95-3964,Normal,A,p_05,Ewallet,21-Dec-2021,8
+352,842-40-8179,Member,B,p_05,Credit card,24-Jan-2020,5.6
+68,525-09-8450,Normal,B,p_02,Credit card,20-Oct-2020,4.2
+74,410-67-1709,Member,A,p_06,Ewallet,13-Jun-2021,9.9
+370,587-73-4862,Member,A,p_01,Ewallet,1-Jan-2022,7.6
+678,787-87-2010,Member,A,p_01,Credit card,24-Jul-2021,6.6
+850,593-14-4239,Normal,B,p_03,Ewallet,10-Feb-2022,4.7
+601,801-88-0346,Normal,C,p_06,Credit card,8-Dec-2019,9.8
+703,388-76-2555,Normal,B,p_04,Cash,19-Jun-2020,6.3
+538,711-31-1234,Normal,B,p_02,Cash,11-Feb-2019,7.9
+469,886-54-6089,Normal,A,p_03,Cash,13-Dec-2019,7.7
+164,707-32-7409,Member,B,p_04,Ewallet,25-Sep-2021,4.5
+270,759-98-4285,Member,C,p_01,Credit card,18-Apr-2021,8
+742,201-63-8275,Member,C,p_04,Ewallet,3-Jan-2019,5.7
+333,471-06-8611,Normal,C,p_05,Credit card,21-Feb-2019,6.3
+569,200-16-5952,Member,C,p_05,Cash,4-Mar-2020,6
+449,120-54-2248,Normal,B,p_05,Credit card,11-Nov-2021,8
+288,102-77-2261,Member,C,p_01,Credit card,14-Jul-2019,4.2
+847,875-31-8302,Normal,B,p_04,Cash,7-Oct-2019,9.6
+880,102-06-2002,Member,C,p_04,Cash,1-Jun-2019,6.1
+187,457-94-0464,Member,B,p_02,Ewallet,16-Apr-2020,5.6
+755,629-42-4133,Normal,C,p_01,Cash,16-Nov-2020,8.3
+993,534-53-3526,Normal,A,p_04,Ewallet,23-May-2021,7.8
+564,307-04-2070,Member,A,p_06,Credit card,8-May-2019,4.1
+799,468-99-7231,Normal,C,p_03,Cash,15-Feb-2021,8.8
+903,516-77-6464,Member,C,p_01,Ewallet,9-Feb-2019,4.1
+495,404-91-5964,Normal,A,p_02,Credit card,7-Nov-2021,9
+433,886-77-9084,Normal,C,p_02,Ewallet,25-Apr-2021,5.5
+6,790-38-4466,Normal,C,p_01,Credit card,12-Feb-2021,9.3
+279,704-10-4056,Member,C,p_01,Credit card,10-Nov-2020,5.6
+901,497-37-6538,Normal,A,p_04,Ewallet,2-Apr-2019,9.7
+101,651-96-5970,Normal,A,p_06,Credit card,10-Aug-2020,4
+200,400-80-4065,Member,C,p_01,Credit card,27-Mar-2019,9.2
+137,744-16-7898,Normal,B,p_03,Credit card,13-Nov-2020,4.9
+42,263-12-5321,Member,A,p_02,Credit card,23-Feb-2021,9.3
+255,702-72-0487,Normal,A,p_02,Credit card,2-Jun-2019,6.6
+265,605-83-1050,Normal,B,p_06,Ewallet,19-Mar-2022,4.3
+936,443-60-9639,Member,C,p_03,Cash,28-Apr-2021,5.5
+593,864-24-7918,Member,A,p_04,Cash,19-Jul-2020,8.1
+914,359-94-5395,Normal,B,p_01,Credit card,14-Feb-2022,9.8
+579,401-09-4232,Member,C,p_03,Ewallet,18-Jan-2022,9.4
+133,751-15-6198,Normal,B,p_04,Ewallet,18-Jul-2019,7.9
+558,324-41-6833,Member,C,p_02,Ewallet,18-Jan-2020,5.1
+550,474-33-8305,Member,C,p_06,Ewallet,9-Oct-2019,6.9
+476,759-29-9521,Member,A,p_06,Cash,28-Sep-2019,8
+961,831-81-6575,Member,B,p_02,Cash,3-Sep-2020,8
+759,220-68-6701,Normal,A,p_03,Cash,30-Jan-2021,4.2
+442,618-34-8551,Normal,A,p_04,Credit card,27-Jan-2022,8.5
+645,257-60-7754,Normal,A,p_02,Cash,8-Aug-2019,9
+575,559-61-5987,Normal,B,p_01,Cash,1-Aug-2020,8.6
+443,189-55-2313,Normal,C,p_06,Ewallet,11-Dec-2019,6
+687,565-91-4567,Normal,B,p_01,Ewallet,15-Aug-2019,6.2
+778,380-60-5336,Normal,A,p_02,Credit card,19-Aug-2020,5
+284,815-04-6282,Member,C,p_04,Credit card,2-Mar-2022,6.5
+567,674-56-6360,Normal,A,p_02,Cash,17-Feb-2019,6
+941,778-34-2523,Member,A,p_02,Cash,19-Nov-2021,5
+28,499-27-7781,Normal,B,p_05,Ewallet,23-Oct-2020,5
+699,477-59-2456,Normal,C,p_06,Cash,14-Jan-2021,9.2
+719,832-51-6761,Normal,A,p_05,Ewallet,5-Feb-2019,9.6
+844,869-11-3082,Member,B,p_01,Credit card,1-Mar-2020,8.4
+693,190-59-3964,Member,B,p_05,Credit card,1-Jul-2021,6
+841,366-43-6862,Normal,B,p_02,Ewallet,11-Jan-2019,6.7
+78,186-43-8965,Member,A,p_03,Credit card,16-Dec-2020,4.1
+500,784-21-9238,Member,C,p_04,Cash,28-May-2021,5.9
+609,276-75-6884,Normal,A,p_01,Cash,21-Aug-2021,8.7
+854,109-86-4363,Member,B,p_04,Credit card,20-Jul-2020,4.5
+706,569-76-2760,Member,A,p_04,Credit card,3-Feb-2019,6.6
+1000,222-42-0244,Member,B,p_01,Credit card,30-Jan-2022,7.7
+627,760-53-9233,Member,A,p_06,Credit card,6-Jun-2020,8.5
+834,538-22-0304,Normal,C,p_02,Cash,25-Jul-2020,5.2
+44,416-17-9926,Member,A,p_02,Credit card,14-Sep-2019,4.3
+662,237-44-6163,Normal,A,p_02,Cash,22-Oct-2019,7.6
+12,636-17-0325,Normal,B,p_01,Cash,28-Jun-2021,9.5
+560,343-75-9322,Member,B,p_04,Cash,8-Oct-2020,4.1
+27,528-14-9470,Member,A,p_01,Ewallet,10-May-2020,9.2
+608,427-45-9297,Member,B,p_03,Ewallet,1-May-2021,5.4
+775,807-34-3742,Normal,A,p_06,Cash,11-Nov-2020,5.8
+870,288-62-1085,Member,A,p_06,Ewallet,20-Sep-2020,5.6
+762,670-71-7306,Normal,B,p_04,Credit card,4-Jan-2021,5.1
+768,660-29-7083,Normal,C,p_02,Cash,12-Jul-2019,5.8
+959,271-77-8740,Member,C,p_04,Ewallet,16-Mar-2019,5
+110,497-36-0989,Normal,A,p_06,Cash,18-Sep-2020,7.9
+32,291-59-1384,Normal,B,p_02,Cash,6-Dec-2019,6
+220,860-73-6466,Member,A,p_04,Credit card,19-Mar-2021,5
+373,549-23-9016,Member,C,p_05,Credit card,27-Jun-2019,8.9
+66,896-34-0956,Normal,A,p_06,Cash,27-Nov-2019,5.9
+790,804-38-3935,Member,A,p_02,Credit card,22-Aug-2020,5.9
+802,585-90-0249,Member,A,p_02,Ewallet,1-Feb-2022,9.7
+374,862-29-5914,Normal,C,p_04,Credit card,26-Feb-2021,8.6
+127,845-94-6841,Member,C,p_05,Cash,1-May-2020,4
+927,125-45-2293,Normal,A,p_06,Cash,6-Aug-2021,4.2
+813,843-73-4724,Normal,A,p_06,Cash,26-May-2019,9.2
+213,409-33-9708,Normal,A,p_06,Ewallet,2-Jul-2019,9.2
+981,658-66-3967,Normal,C,p_01,Ewallet,9-Apr-2019,5
+720,866-70-2814,Normal,B,p_02,Ewallet,30-Oct-2020,10
+717,160-22-2687,Member,A,p_01,Ewallet,29-Mar-2020,8.8
+977,895-03-6665,Normal,B,p_06,Cash,28-Sep-2020,4.2
+232,770-42-8960,Normal,B,p_05,Cash,16-May-2019,6.3
+307,748-45-2862,Member,A,p_03,Cash,2-Oct-2020,8.2
+174,234-36-2483,Normal,B,p_01,Cash,27-Apr-2021,5.1
+865,316-66-3011,Member,A,p_05,Cash,5-Nov-2020,5
+812,848-95-6252,Member,C,p_03,Ewallet,16-Feb-2020,7
+944,840-76-5966,Member,A,p_04,Ewallet,12-Aug-2019,7.8
+681,152-03-4217,Normal,B,p_03,Credit card,17-Jun-2020,4.3
+120,533-66-5566,Normal,B,p_03,Cash,27-Jul-2020,7
+154,124-31-1458,Member,A,p_02,Cash,20-May-2019,6.6
+252,176-78-1170,Member,C,p_01,Ewallet,27-Dec-2021,7.3
+881,361-59-0574,Member,B,p_04,Credit card,26-Jun-2020,6.5
+565,101-81-4070,Member,C,p_01,Ewallet,1-Feb-2020,4.9
+129,631-34-1880,Member,C,p_05,Credit card,15-Mar-2019,4.3
+103,852-82-2749,Normal,A,p_04,Ewallet,9-Nov-2021,9.3
+304,873-14-6353,Member,A,p_05,Credit card,13-Dec-2021,7.1
+848,584-66-4073,Normal,C,p_06,Ewallet,5-Feb-2020,9.6
+779,544-55-9589,Member,B,p_02,Cash,13-May-2019,6.2
+838,166-19-2553,Member,A,p_04,Cash,2-Mar-2020,9.9
+935,737-88-5876,Member,A,p_03,Credit card,11-Aug-2019,5.9
+380,154-87-7367,Normal,C,p_03,Ewallet,6-Aug-2019,6.3
+48,885-56-0389,Member,C,p_06,Cash,29-Apr-2019,4
+886,608-05-3804,Member,B,p_02,Cash,1-Oct-2020,6.1
+783,448-61-3783,Normal,A,p_02,Credit card,7-Jan-2022,4.5
+345,761-49-0439,Member,B,p_02,Ewallet,23-Sep-2021,8.6
+509,490-95-0021,Member,B,p_05,Ewallet,20-Jul-2019,6
+321,115-38-7388,Member,C,p_06,Credit card,17-Aug-2021,9.5
+311,311-13-6971,Member,B,p_04,Credit card,19-Nov-2019,9.9
+431,291-55-6563,Member,A,p_03,Ewallet,26-Jun-2019,7.5
+3,548-48-3156,Member,A,p_05,Cash,15-Jun-2019,7.6
+734,460-93-5834,Normal,A,p_04,Cash,27-Apr-2020,5
+707,325-89-4209,Member,A,p_05,Ewallet,3-Jul-2019,6.7
+772,884-80-6021,Member,A,p_02,Ewallet,8-Mar-2020,9.5
+602,137-74-8729,Normal,C,p_06,Ewallet,7-Aug-2021,6.8
+201,880-46-5796,Member,A,p_04,Ewallet,14-Sep-2020,5.6
+2,389-70-2397,Normal,C,p_01,Cash,29-May-2021,7.2
+738,114-35-5271,Normal,B,p_02,Cash,1-Sep-2019,8.1
+188,607-76-6216,Member,C,p_06,Credit card,17-Jun-2019,8.6
+585,715-20-1673,Normal,B,p_02,Cash,17-Jul-2020,9.4
+919,811-35-1094,Member,B,p_02,Credit card,24-Oct-2019,8.9
+688,699-88-1972,Normal,B,p_01,Credit card,2-Aug-2020,4.2
+957,781-84-8059,Normal,C,p_06,Ewallet,16-Apr-2019,5
+416,409-49-6995,Member,C,p_05,Cash,8-Jul-2021,8.8
+746,725-54-0677,Member,C,p_01,Cash,28-Jul-2019,5.3
+945,146-09-5432,Member,A,p_05,Ewallet,3-Jun-2021,4.6
+73,377-79-7592,Member,C,p_02,Credit card,25-Jul-2019,7.5
+793,509-10-0516,Normal,B,p_03,Ewallet,17-Aug-2019,5.1
+685,595-94-9924,Member,A,p_01,Credit card,7-Oct-2021,4.2
+559,865-41-9075,Normal,A,p_05,Cash,21-Apr-2020,8.1
+572,545-07-8534,Normal,C,p_01,Ewallet,22-Sep-2021,6
+806,118-62-1812,Member,C,p_03,Cash,21-May-2021,7.9
+520,450-42-3339,Normal,C,p_01,Credit card,29-Sep-2021,8.8
+917,851-98-3555,Normal,B,p_01,Credit card,1-Apr-2019,6.6
+952,186-71-5196,Member,A,p_05,Ewallet,16-Sep-2019,6.2
+931,624-01-8356,Normal,B,p_03,Credit card,22-Aug-2019,4.2
+197,313-66-9943,Member,B,p_05,Credit card,20-Mar-2022,7.3
+41,151-27-8496,Normal,C,p_02,Ewallet,4-Jan-2019,8.6
+910,453-33-6436,Normal,A,p_03,Cash,28-Aug-2020,6.8
+918,522-57-8364,Member,A,p_06,Ewallet,29-Feb-2020,7.6
+427,459-45-2396,Member,A,p_05,Cash,5-Mar-2021,5.8
+350,717-96-4189,Normal,C,p_02,Cash,24-Jan-2019,4.1
+640,722-13-2115,Member,C,p_04,Credit card,7-Mar-2020,9.3
+723,749-81-8133,Normal,A,p_06,Cash,17-Aug-2020,6.8
+236,777-67-2495,Normal,B,p_03,Ewallet,3-Apr-2020,8.7
+912,636-98-3364,Member,B,p_02,Ewallet,17-Sep-2020,6.3
+346,246-55-6923,Member,C,p_03,Credit card,12-Nov-2019,5.1
+35,181-82-6255,Normal,B,p_03,Cash,17-Apr-2020,7
+404,838-02-1821,Member,C,p_03,Credit card,28-Feb-2019,5.2
+4,887-42-0517,Normal,C,p_04,Credit card,12-Mar-2022,6.6
+485,457-12-0244,Member,C,p_04,Ewallet,7-Mar-2022,6.5
+134,226-34-0034,Normal,B,p_02,Ewallet,7-Jun-2021,9
+621,321-49-7382,Member,B,p_04,Credit card,15-Aug-2021,5.2
+113,397-25-8725,Member,A,p_01,Credit card,13-Sep-2020,6.8
+998,431-66-2305,Normal,B,p_02,Credit card,14-Mar-2020,7.6
+413,825-94-5922,Normal,B,p_04,Ewallet,6-Nov-2021,7.2
+508,641-62-7288,Normal,B,p_03,Ewallet,31-Oct-2021,7.1
+504,756-93-1854,Member,C,p_06,Credit card,19-Dec-2019,9.5
+805,243-55-8457,Normal,A,p_05,Ewallet,14-Sep-2021,5.1
+939,458-10-8612,Normal,C,p_01,Ewallet,15-Oct-2019,7.6
+210,501-61-1753,Normal,B,p_03,Ewallet,18-Mar-2022,9.8
+235,235-06-8510,Member,C,p_03,Ewallet,20-Feb-2020,5.1
+907,433-08-7822,Normal,C,p_01,Ewallet,19-Dec-2021,7.5
+827,361-85-2571,Normal,A,p_04,Cash,31-Mar-2019,7.4
+506,131-70-8179,Member,A,p_01,Cash,16-Feb-2022,4.2
+92,500-02-2261,Normal,C,p_05,Ewallet,28-Oct-2019,5.9
+475,720-72-2436,Normal,A,p_05,Ewallet,5-May-2021,6.9
+278,702-83-5291,Member,C,p_06,Cash,3-Aug-2021,6.6
+786,809-69-9497,Normal,A,p_03,Ewallet,29-Dec-2020,5.7
+45,449-16-6770,Normal,A,p_01,Credit card,17-Mar-2019,5.3
+604,333-23-2632,Member,A,p_01,Cash,18-May-2020,4.2
+313,489-82-1237,Normal,A,p_02,Credit card,30-Mar-2020,7.3
+211,859-97-6048,Member,C,p_02,Credit card,29-Jul-2021,5.3
+139,676-10-2200,Member,B,p_06,Ewallet,20-Jan-2022,4.7
+657,373-88-1424,Member,C,p_03,Ewallet,18-Oct-2021,7.9
+966,365-16-4334,Normal,B,p_05,Ewallet,28-May-2019,8.9
+978,503-21-4385,Member,B,p_01,Ewallet,4-Mar-2021,9.3
+90,305-89-2768,Member,B,p_03,Ewallet,13-Dec-2020,4.7
+118,574-80-1489,Member,B,p_05,Ewallet,24-Apr-2019,8.7
+874,784-08-0310,Member,C,p_05,Cash,23-May-2020,7.6
+223,200-40-6154,Member,B,p_03,Cash,8-Nov-2019,5.7
+315,846-10-0341,Normal,A,p_06,Cash,23-Jan-2022,6.8
+91,577-34-7579,Member,C,p_05,Cash,18-Feb-2022,5.4
+667,430-02-3888,Normal,B,p_02,Cash,14-Feb-2021,7.1
+590,867-47-1948,Normal,C,p_03,Cash,13-Jan-2022,7.8
+814,384-59-6655,Member,A,p_05,Cash,11-Jun-2019,8.4
+396,256-58-3609,Member,C,p_06,Cash,13-Jan-2020,9.8
+33,324-92-3863,Member,A,p_02,Cash,10-Apr-2021,9.8
+721,593-08-5916,Normal,A,p_06,Credit card,14-May-2020,7.4
+334,364-34-2972,Member,C,p_02,Cash,19-Jan-2021,6.7
+218,794-42-3736,Normal,B,p_05,Credit card,15-Oct-2020,6.4
+283,172-42-8274,Normal,B,p_02,Credit card,20-May-2021,5.8
+502,558-60-5016,Normal,A,p_03,Ewallet,28-Nov-2020,7.2
+203,195-06-0432,Member,A,p_03,Credit card,23-Dec-2019,9.3
+497,605-03-2706,Normal,A,p_01,Cash,20-Oct-2021,9.5
+612,214-30-2776,Member,B,p_02,Credit card,30-Dec-2021,9
+666,746-04-1077,Member,B,p_05,Credit card,5-May-2019,9
+94,448-34-8700,Member,B,p_03,Ewallet,26-Mar-2020,6.7
+226,452-04-8808,Normal,B,p_02,Cash,19-Sep-2021,5.5
+471,531-56-4728,Normal,A,p_03,Cash,8-Sep-2020,5.4
+112,744-82-9138,Normal,C,p_06,Cash,10-Mar-2021,8.2
+366,883-69-1285,Member,B,p_06,Credit card,26-Oct-2020,7
+829,221-25-5073,Normal,A,p_05,Cash,31-Jan-2022,8.5
+930,518-71-6847,Member,B,p_05,Ewallet,18-Apr-2019,4.9
+510,156-20-0370,Normal,B,p_02,Credit card,15-Jan-2019,5.1
+114,151-33-7434,Normal,B,p_05,Credit card,18-Oct-2020,6.5
+554,728-47-9078,Member,C,p_05,Cash,3-May-2019,9.8
+652,809-46-1866,Normal,A,p_01,Cash,15-Feb-2020,8.4
+401,139-32-4183,Member,A,p_04,Ewallet,5-Aug-2020,7.4
+979,148-41-7930,Normal,C,p_01,Cash,1-Nov-2020,6.1
+962,189-40-5216,Normal,C,p_02,Cash,7-May-2019,6
+437,374-38-5555,Normal,B,p_06,Ewallet,25-May-2020,8.5
+440,764-44-8999,Normal,B,p_01,Ewallet,27-Jul-2021,4.3
+696,552-44-5977,Member,B,p_01,Credit card,13-May-2021,6.2
+965,267-62-7380,Member,C,p_02,Ewallet,1-Sep-2020,4.3
+571,430-53-4718,Member,B,p_01,Credit card,12-Aug-2020,8.4
+659,886-18-2897,Normal,A,p_05,Credit card,16-Aug-2020,4.5
+938,602-16-6955,Normal,B,p_04,Ewallet,21-Jan-2019,6
+399,745-74-0715,Normal,A,p_02,Ewallet,7-Jul-2019,8.8
+989,690-01-6631,Normal,B,p_06,Ewallet,14-Dec-2020,6.6
+176,652-49-6720,Member,C,p_02,Ewallet,2-Dec-2021,5.9
+266,233-67-5758,Normal,C,p_01,Ewallet,5-Mar-2022,6.2
+351,303-96-2227,Normal,B,p_03,Ewallet,18-Nov-2019,4.4
+906,727-02-1313,Member,A,p_05,Cash,8-Feb-2020,7.7
+694,347-56-2442,Normal,A,p_03,Cash,25-Sep-2019,4.1
+121,849-09-3807,Member,A,p_06,Cash,26-Jan-2022,6.6

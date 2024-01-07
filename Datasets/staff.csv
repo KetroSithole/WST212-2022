@@ -1,0 +1,20 @@
+Employee_ID,Start_Date,End_Date,Employee_Job_Title,Salary,Employee_Gender,Employee_Birth_Date,Employee_Hire_Date,Manager_for_Employee
+120101,01-Jul-07,31-Dec-99,Director,163040,M,18-Aug-80,01-Jul-07,120261
+120102,01-Jun-93,31-Dec-99,Sales Manager,108255,M,11-Aug-73,01-Jun-93,120101
+120103,01-Jan-78,31-Dec-99,Sales Manager,87975,M,22-Jan-53,01-Jan-78,120101
+120104,01-Jan-85,31-Dec-99,Administration Manager,46230,F,11-May-58,01-Jan-85,120101
+120105,01-May-03,31-Dec-99,Secretary I,27110,F,21-Dec-78,01-May-03,120101
+120106,01-Jan-78,31-Dec-99,Office Assistant II,26960,M,23-Dec-48,01-Jan-78,120104
+120107,01-Feb-78,31-Dec-99,Office Assistant III,30475,F,21-Jan-53,01-Feb-78,120104
+120108,01-Aug-10,31-Dec-99,Warehouse Assistant II,27660,F,23-Feb-88,01-Aug-10,120104
+120109,01-Oct-10,31-Dec-99,Warehouse Assistant I,26495,F,15-Dec-90,01-Oct-10,120104
+120110,01-Nov-83,31-Dec-99,Warehouse Assistant III,29615,M,20-Nov-53,01-Nov-83,120104
+120111,01-Nov-78,31-Dec-99,Security Guard II,26895,M,23-Jul-53,01-Nov-78,120104
+120112,01-Jul-94,31-Dec-99,Security Guard I,26550,F,17-Feb-73,01-Jul-94,120104
+120113,01-Jan-78,31-Dec-99,Security Guard II,26870,F,10-May-48,01-Jan-78,120104
+120114,01-Jan-78,31-Dec-99,Security Manager,31285,F,08-Feb-48,01-Jan-78,120104
+120115,01-Aug-09,31-Dec-99,Service Assistant I,26500,M,08-May-88,01-Aug-09,120104
+120116,01-Feb-84,31-Dec-99,Service Assistant II,29250,M,13-Jun-63,01-Feb-84,120104
+120117,01-Apr-90,31-Dec-99,Cabinet Maker III,31670,M,11-Sep-68,01-Apr-90,120104
+120118,01-Jul-88,31-Dec-99,Cabinet Maker II,28090,M,03-Jun-63,01-Jul-88,120104
+120119,01-Jan-02,31-Dec-99,Electrician IV,30255,M,21-Dec-73,01-Jan-02,120104

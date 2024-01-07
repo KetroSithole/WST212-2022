@@ -1,0 +1,78 @@
+Customer_ID,Customer_Country,Customer_Gender,Personal_ID,Customer_Name,Customer_First_Name,Customer_Last_Name,Customer_Birth_Date,Customer_Address,Street_ID,Street_Number,Customer_Type_ID
+4,US,M,,James Kvarniq,James,Kvarniq,1978/06/27,4382 Gralyn Rd,9260106519,4382,1020
+5,US,F,,Sandrina Stephano,Sandrina,Stephano,1983/07/09,6468 Cog Hill Ct,9260114570,6468,2020
+9,DE,F,,Cornelia Krahl,Cornelia,Krahl,1978/02/27,Kallstadterstr. 9,3940106659,9,2020
+10,US,F,,Karen Ballinger,Karen,Ballinger,1988/10/18,425 Bryant Estates Dr,9260129395,425,1040
+11,DE,F,,Elke Wallstab,Elke,Wallstab,1978/08/16,Carl-Zeiss-Str. 15,3940108592,15,1040
+12,US,M,,David Black,David,Black,1973/04/12,1068 Haithcock Rd,9260103713,1068,1030
+13,DE,M,,Markus Sepke,Markus,Sepke,1992/07/21,Iese 1,3940105189,1,2010
+16,DE,M,,Ulrich Heyde,Ulrich,Heyde,1943/01/16,Oberstr. 61,3940105865,61,3010
+17,US,M,,Jimmie Evans,Jimmie,Evans,1958/08/17,391 Greywood Dr,9260123306,391,1030
+18,US,M,,Tonie Asmussen,Tonie,Asmussen,1958/02/02,117 Langtree Ln,9260112361,117,1020
+19,DE,M,,Oliver S. Füßling,Oliver S.,Füßling,1968/02/23,Hechtsheimerstr. 18,3940106547,18,2030
+20,US,M,,Michael Dineley,Michael,Dineley,1963/04/17,2187 Draycroft Pl,9260118934,2187,1030
+23,US,M,,Tulio Devereaux,Tulio,Devereaux,1953/12/02,1532 Ferdilah Ln,9260126679,1532,3010
+24,US,F,,Robyn Klem,Robyn,Klem,1963/06/02,435 Cambrian Way,9260115784,435,3010
+27,US,F,,Cynthia Mccluney,Cynthia,Mccluney,1973/04/15,188 Grassy Creek Pl,9260105670,188,3010
+29,AU,F,,Candy Kinsey,Candy,Kinsey,1938/07/08,21 Hotham Parade,1600103020,21,3010
+31,US,F,,Cynthia Martinez,Cynthia,Martinez,1963/08/07,42 Arrowood Ln,9260128428,42,2020
+33,DE,M,,Rolf Robak,Rolf,Robak,1943/02/24,Münsterstraße 67,3940102376,67,1030
+34,US,M,,Alvan Goheen,Alvan,Goheen,1988/01/18,844 Glen Eden Dr,9260111379,844,1020
+36,US,M,,Phenix Hill,Phenix,Hill,1968/04/02,417 Halstead Cir,9260128237,417,3010
+39,US,M,,Alphone Greenwald,Alphone,Greenwald,1988/07/25,4386 Hamrick Dr,9260123099,4386,2030
+41,AU,M,,Wendell Summersby,Wendell,Summersby,1968/12/02,9 Angourie Court,1600101527,9,1030
+42,DE,M,,Thomas Leitmann,Thomas,Leitmann,1983/02/09,Carl Von Linde Str. 13,3940109715,13,1020
+45,US,F,,Dianne Patchin,Dianne,Patchin,1983/05/06,7818 Angier Rd,9260104847,7818,2010
+49,US,F,,Annmarie Leveille,Annmarie,Leveille,1988/07/16,185 Birchford Ct,9260104510,185,2030
+50,DE,M,,Gert-Gunter Mendler,Gert-Gunter,Mendler,1938/01/16,Humboldtstr. 1,3940105781,1,2030
+52,US,M,,Yan Kozlowski,Yan,Kozlowski,1973/04/06,1233 Hunters Crossing,9260116235,1233,1030
+53,AU,F,,Dericka Pockran,Dericka,Pockran,1958/06/20,131 Franklin St,1600103258,131,1040
+56,US,M,,Roy Siferd,Roy,Siferd,1938/02/01,334 Kingsmill Rd,9260111871,334,1030
+60,US,F,,Tedi Lanzarone,Tedi,Lanzarone,1973/05/23,2429 Hunt Farms Ln,9260101262,2429,1030
+61,DE,M,,Carsten Maestrini,Carsten,Maestrini,1948/07/08,Münzstr. 28,3940108887,28,2030
+63,US,M,,James Klisurich,James,Klisurich,1973/12/25,25 Briarforest Pl,9260125492,25,2020
+65,DE,F,,Ines Deisser,Ines,Deisser,1973/07/20,Bahnweg 1,3940100176,1,1020
+69,US,F,,Patricia Bertolozzi,Patricia,Bertolozzi,1983/05/13,4948 Dargan Hills Dr,9260116402,4948,1020
+71,US,F,,Viola Folsom,Viola,Folsom,1973/09/23,290 Glenwood Ave,9260124130,290,2020
+75,US,M,,Mikel Spetz,Mikel,Spetz,1988/06/18,101 Knoll Ridge Ln,9260108068,101,1020
+79,US,F,,Najma Hicks,Najma,Hicks,1990/01/22,9658 Dinwiddie Ct,9260101874,9658,1030
+88,US,M,,Attila Gibbs,Attila,Gibbs,1963/02/19,3815 Askham Dr,9260100179,3815,1030
+89,US,F,,Wynella Lewis,Wynella,Lewis,1938/09/28,2572 Glenharden Dr,9260116551,2572,1040
+90,US,F,,Kyndal Hooks,Kyndal,Hooks,1968/08/01,252 Clay St,9260111614,252,2030
+92,US,M,,Lendon Celii,Lendon,Celii,1948/09/14,421 Blue Horizon Dr,9260117676,421,1020
+111,AU,F,,Karolina Dokter,Karolina,Dokter,1978/12/28,28 Munibung Road,1600102072,28,1030
+171,AU,M,,Robert Bowerman,Robert,Bowerman,1978/02/22,21 Parliament House c/- Senator t,1600101555,21,1040
+183,AU,M,,Duncan Robertshawe,Duncan,Robertshawe,1948/03/25,18 Fletcher Rd,1600100760,18,1020
+195,AU,M,,Cosi Rimmington,Cosi,Rimmington,1948/11/11,4 Burke Street Woolloongabba,1600101663,4,1020
+215,AU,M,,Ramesh Trentholme,Ramesh,Trentholme,1953/05/16,23 Benjamin Street,1600102721,23,2020
+544,TR,M,,Avni Argac,Avni,Argac,1968/05/20,A Blok No: 1,9050100008,1,1040
+908,TR,M,,Avni Umran,Avni,Umran,1983/12/06,Mayis Cad. Nova Baran Plaza Ka 11,9050100023,11,2030
+928,TR,M,,Bulent Urfalioglu,Bulent,Urfalioglu,1973/08/11,Turkcell Plaza Mesrutiyet Cad. 142,9050100016,142,1020
+1033,TR,M,,Selim Okay,Selim,Okay,1983/10/14,Fahrettin Kerim Gokay Cad. No. 24,9050100001,24,1020
+1100,TR,M,,Ahmet Canko,Ahmet,Canko,1968/01/19,A Blok No: 1,9050100008,1,1020
+1684,TR,M,,Carglar Aydemir,Carglar,Aydemir,1978/10/17,A Blok No: 1,9050100008,1,1020
+2550,ZA,F,,Sanelisiwe Collier,Sanelisiwe,Collier,1992/07/07,Bryanston Drive 122,8010100009,122,2010
+2618,ZA,M,,Theunis Brazier,Theunis,Brazier,1953/03/21,Arnold Road 2,8010100125,2,1030
+2788,TR,M,,Serdar Yucel,Serdar,Yucel,1948/01/02,Fahrettin Kerim Gokay Cad. No. 30,9050100001,30,1040
+2806,ZA,F,,Raedene Van Den Berg,Raedene,Van Den Berg,1992/09/16,Quinn Street 11,8010100089,11,1030
+3959,ZA,F,,Rita Lotz,Rita,Lotz,1968/02/24,Moerbei Avenue 120,8010100151,120,2030
+11171,CA,M,,Bill Cuddy,Bill,Cuddy,1990/10/16,69 chemin Martin,2600100032,69,2010
+12386,IL,M,,Avinoam Zweig,Avinoam,Zweig,1963/05/12,Mivtza Kadesh St 16,4750100001,16,3010
+14104,IL,M,,Avinoam Zweig,Avinoam,Zweig,1968/10/10,Mivtza Kadesh St 25,4750100001,25,1030
+14703,IL,M,,Eyal Bloch,Eyal,Bloch,1973/09/24,Mivtza Boulevard 17,4750100002,17,1040
+17023,CA,F,,Susan Krasowski,Susan,Krasowski,1963/07/09,837 rue Lajeunesse,2600100021,837,2030
+19444,IL,M,,Avinoam Zweig,Avinoam,Zweig,1963/09/28,Mivtza Kadesh St 61,4750100001,61,1040
+19873,IL,M,,Avinoam Tuvia,Avinoam,Tuvia,1988/06/14,Mivtza Kadesh St 18,4750100001,18,2030
+26148,CA,M,,Andreas Rennie,Andreas,Rennie,1938/07/18,41 Main St,2600100010,41,1030
+46966,CA,F,,Lauren Krasowski,Lauren,Krasowski,1990/10/24,17 boul Wallberg,2600100011,17,1040
+54655,CA,F,,Lauren Marx,Lauren,Marx,1973/08/18,512 Gregoire Dr,2600100013,512,3010
+70046,CA,M,,Tommy Mcdonald,Tommy,Mcdonald,1963/01/20,818 rue Davis,2600100017,818,1020
+70059,CA,M,,Colin Byarley,Colin,Byarley,1938/01/20,580 Howe St,2600100047,580,1030
+70079,CA,F,,Lera Knott,Lera,Knott,1990/07/11,304 Grand Lake Rd,2600100039,304,1030
+70100,CA,F,,Wilma Yeargan,Wilma,Yeargan,1988/06/23,614 Route 199,2600100015,614,1030
+70108,CA,M,,Patrick Leach,Patrick,Leach,1943/04/14,1001 Burrard St,2600100046,1001,1020
+70165,CA,F,,Portia Reynoso,Portia,Reynoso,1968/02/11,873 rue Bosse,2600100006,873,1020
+70187,CA,F,,Soberina Berent,Soberina,Berent,1990/09/27,1835 boul Laure,2600100035,1835,1030
+70201,CA,F,,Angel Borwick,Angel,Borwick,1973/12/19,319 122 Ave NW,2600100012,319,2010
+70210,CA,M,,Alex Santinello,Alex,Santinello,1990/04/22,40 Route 199,2600100015,40,1030
+70221,CA,M,,Kenan Talarr,Kenan,Talarr,1968/02/10,9 South Service Rd,2600100019,9,1040
